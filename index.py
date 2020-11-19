@@ -33,7 +33,7 @@ def display_page(pathname):
     if pathname == '/apps/incomemodel':
         return incomemodel.layout
     else:
-        return "404 Page Error! Please choose a link"
+        return dashboard.layout
 
 
 if __name__ == '__main__':
