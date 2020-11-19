@@ -1,0 +1,300 @@
+,designatedArea,incidentType
+2046,Tulsa ,Flood
+2048,Creek ,Flood
+2059,Osage ,Flood
+2065,Okmulgee ,Flood
+2093,Wagoner ,Flood
+2118,Tulsa ,Flood
+2119,Wagoner ,Flood
+3210,Osage ,Severe Storm(s)
+3238,Mayes ,Severe Storm(s)
+3286,Muskogee ,Severe Storm(s)
+3318,Washington ,Severe Storm(s)
+3326,Tulsa ,Severe Storm(s)
+3486,Tulsa ,Flood
+3596,Washington ,Flood
+3626,Rogers ,Flood
+3642,Osage ,Flood
+3866,Wagoner ,Flood
+3876,Tulsa ,Flood
+3886,Rogers ,Flood
+3938,Osage ,Flood
+3953,Creek ,Flood
+3955,Tulsa ,Flood
+3956,Washington ,Flood
+3987,Osage ,Flood
+4004,Okmulgee ,Flood
+4008,Creek ,Flood
+4064,Mayes ,Flood
+4338,Mayes ,Severe Storm(s)
+4575,Tulsa ,Tornado
+4667,Wagoner ,Flood
+4706,Tulsa ,Flood
+5296,Washington ,Tornado
+5858,Okmulgee ,Tornado
+5873,Tulsa ,Flood
+5896,Tulsa ,Tornado
+6218,Wagoner ,Flood
+6356,Osage ,Tornado
+6426,Creek ,Tornado
+6461,Mayes ,Flood
+6601,Osage ,Flood
+6644,Muskogee ,Flood
+6681,Wagoner ,Flood
+6789,Wagoner ,Tornado
+6798,Tulsa ,Flood
+6833,Okmulgee ,Flood
+6835,Rogers ,Flood
+6841,Creek ,Flood
+7067,Osage ,Flood
+7134,Washington ,Flood
+7373,Rogers ,Tornado
+7437,Rogers ,Flood
+7793,Washington ,Severe Storm(s)
+8144,Washington ,Tornado
+8258,Creek ,Severe Storm(s)
+8568,Mayes ,Tornado
+8590,Okmulgee ,Severe Storm(s)
+9337,Tulsa ,Severe Storm(s)
+9339,Rogers ,Tornado
+9622,Wagoner ,Severe Storm(s)
+9952,Osage ,Tornado
+9966,Okmulgee ,Severe Storm(s)
+10024,Wagoner ,Tornado
+10217,Osage ,Severe Storm(s)
+10705,Osage ,Tornado
+10934,Tulsa ,Tornado
+11568,Creek ,Tornado
+14229,Tulsa ,Tornado
+14639,Okmulgee ,Tornado
+14885,Creek ,Severe Ice Storm
+15586,Muskogee ,Severe Storm(s)
+15620,Washington ,Severe Ice Storm
+15894,Creek ,Tornado
+16308,Tulsa ,Severe Ice Storm
+16612,Wagoner ,Severe Ice Storm
+17078,Muskogee ,Severe Ice Storm
+17315,Mayes ,Severe Ice Storm
+17849,Osage ,Severe Ice Storm
+17959,Osage ,Severe Ice Storm
+18022,Osage ,Severe Ice Storm
+18261,Rogers ,Severe Ice Storm
+18375,Mayes ,Severe Storm(s)
+18532,Muskogee ,Severe Storm(s)
+18711,Okmulgee ,Severe Storm(s)
+18721,Rogers ,Severe Ice Storm
+18726,Okmulgee ,Severe Ice Storm
+18844,Washington ,Severe Ice Storm
+18989,Okmulgee ,Fire
+19105,Creek ,Severe Storm(s)
+19169,Washington ,Severe Storm(s)
+19498,Creek ,Severe Ice Storm
+19653,Okmulgee ,Severe Storm(s)
+19774,Mayes ,Fire
+20150,Osage ,Severe Storm(s)
+20305,Washington ,Fire
+20763,Wagoner ,Severe Storm(s)
+20988,Tulsa ,Severe Ice Storm
+21527,Muskogee ,Fire
+21897,Creek ,Severe Ice Storm
+22117,Mayes ,Severe Ice Storm
+22176,Rogers ,Severe Storm(s)
+22598,Rogers ,Severe Storm(s)
+22687,Tulsa ,Fire
+22714,Wagoner ,Fire
+22818,Rogers ,Severe Storm(s)
+22947,Tulsa ,Severe Storm(s)
+23019,Okmulgee ,Severe Ice Storm
+23037,Wagoner ,Severe Ice Storm
+23079,Rogers ,Flood
+23258,Wagoner ,Severe Storm(s)
+23545,Okmulgee ,Severe Storm(s)
+23576,Creek ,Fire
+23583,Washington ,Severe Storm(s)
+23638,Muskogee ,Severe Storm(s)
+23643,Washington ,Severe Storm(s)
+23775,Wagoner ,Severe Storm(s)
+23779,Okmulgee ,Severe Storm(s)
+23784,Washington ,Severe Ice Storm
+23902,Wagoner ,Flood
+23903,Muskogee ,Severe Storm(s)
+23910,Rogers ,Fire
+23985,Tulsa ,Severe Storm(s)
+24143,Muskogee ,Flood
+24346,Osage ,Severe Storm(s)
+24628,Mayes ,Severe Storm(s)
+24634,Tulsa ,Severe Ice Storm
+24665,Osage ,Fire
+24731,Okmulgee ,Severe Storm(s)
+24800,Osage ,Severe Storm(s)
+24907,Creek ,Severe Ice Storm
+25082,Okmulgee ,Severe Ice Storm
+25129,Osage ,Severe Ice Storm
+25316,Rogers ,Severe Storm(s)
+25506,Osage ,Severe Storm(s)
+25519,Muskogee ,Severe Storm(s)
+25560,Mayes ,Severe Storm(s)
+25572,Mayes ,Severe Storm(s)
+25688,Osage ,Severe Storm(s)
+25713,Washington ,Severe Storm(s)
+25855,Muskogee ,Severe Ice Storm
+25926,Mayes ,Flood
+26038,Rogers ,Severe Ice Storm
+26223,Wagoner ,Severe Ice Storm
+26360,Creek ,Severe Storm(s)
+26369,Creek ,Severe Storm(s)
+26778,Okmulgee ,Severe Storm(s)
+26916,Okmulgee ,Severe Storm(s)
+27240,Rogers ,Severe Storm(s)
+27282,Osage ,Severe Storm(s)
+27624,Muskogee ,Severe Storm(s)
+27857,Mayes ,Severe Ice Storm
+27885,Okmulgee ,Severe Storm(s)
+27949,Creek ,Fire
+27953,Okmulgee ,Severe Storm(s)
+28078,Muskogee ,Severe Storm(s)
+28417,Wagoner ,Severe Storm(s)
+28670,Tulsa ,Severe Ice Storm
+28694,Osage ,Severe Storm(s)
+28725,Rogers ,Severe Ice Storm
+28843,Washington ,Severe Ice Storm
+28868,Okmulgee ,Severe Storm(s)
+28955,Creek ,Severe Storm(s)
+28961,Mayes ,Severe Storm(s)
+29123,Mayes ,Fire
+29216,Creek ,Fire
+29537,Creek ,Fire
+30062,Creek ,Fire
+30267,Osage ,Fire
+30424,Creek ,Severe Storm(s)
+30471,Tulsa ,Severe Storm(s)
+31109,Tulsa ,Fire
+31153,Osage ,Fire
+31185,Creek ,Fire
+31462,Muskogee ,Fire
+31662,Osage ,Severe Storm(s)
+31819,Washington ,Severe Storm(s)
+31939,Tulsa ,Fire
+31959,Okmulgee ,Fire
+32114,Muskogee ,Severe Storm(s)
+32203,Creek ,Fire
+32554,Tulsa ,Fire
+32617,Creek ,Severe Ice Storm
+32708,Tulsa ,Fire
+33037,Creek ,Fire
+33044,Creek ,Fire
+33130,Wagoner ,Severe Ice Storm
+33522,Washington ,Fire
+34064,Muskogee ,Severe Ice Storm
+34194,Rogers ,Hurricane
+34317,Washington ,Hurricane
+34486,Osage ,Hurricane
+34659,Okmulgee ,Severe Ice Storm
+34839,Mayes ,Hurricane
+34994,Muskogee ,Hurricane
+35073,Okmulgee ,Hurricane
+35326,Washington ,Severe Ice Storm
+35364,Creek ,Hurricane
+35580,Wagoner ,Hurricane
+35646,Tulsa ,Hurricane
+38531,Rogers ,Severe Ice Storm
+38559,Tulsa ,Severe Ice Storm
+38563,Washington ,Severe Ice Storm
+38567,Wagoner ,Severe Ice Storm
+38576,Creek ,Severe Ice Storm
+38658,Mayes ,Severe Ice Storm
+38666,Muskogee ,Severe Ice Storm
+38671,Okmulgee ,Severe Ice Storm
+38679,Osage ,Severe Ice Storm
+38688,Okmulgee ,Severe Ice Storm
+38721,Rogers ,Severe Ice Storm
+38728,Tulsa ,Severe Ice Storm
+38742,Mayes ,Severe Ice Storm
+38748,Osage ,Severe Ice Storm
+38766,Wagoner ,Severe Ice Storm
+38787,Washington ,Severe Ice Storm
+38789,Creek ,Severe Ice Storm
+38795,Muskogee ,Severe Ice Storm
+40007,Osage ,Severe Storm(s)
+40022,Muskogee ,Severe Storm(s)
+40027,Washington ,Severe Storm(s)
+40053,Rogers ,Severe Storm(s)
+40054,Mayes ,Severe Storm(s)
+40073,Tulsa ,Severe Storm(s)
+40139,Wagoner ,Severe Storm(s)
+40166,Okmulgee ,Severe Storm(s)
+40170,Creek ,Severe Storm(s)
+40248,Muskogee ,Severe Storm(s)
+40252,Okmulgee ,Severe Storm(s)
+40256,Mayes ,Severe Storm(s)
+40296,Creek ,Severe Storm(s)
+40303,Wagoner ,Severe Storm(s)
+40320,Rogers ,Severe Storm(s)
+40393,Tulsa ,Severe Storm(s)
+40401,Washington ,Severe Storm(s)
+40403,Osage ,Severe Storm(s)
+43135,Muskogee ,Flood
+43140,Wagoner ,Flood
+43235,Tulsa ,Flood
+43242,Osage ,Flood
+44268,Creek ,Fire
+44709,Okmulgee ,Tornado
+45986,Rogers ,Severe Storm(s)
+46005,Creek ,Severe Storm(s)
+46006,Muskogee ,Severe Storm(s)
+46022,Tulsa ,Severe Storm(s)
+46033,Mayes ,Severe Storm(s)
+46047,Okmulgee ,Severe Storm(s)
+46051,Wagoner ,Severe Storm(s)
+46601,Mayes ,Severe Storm(s)
+46746,Okmulgee ,Severe Storm(s)
+46791,Osage ,Severe Storm(s)
+46819,Muskogee ,Severe Storm(s)
+47451,Muskogee ,Severe Storm(s)
+47593,Mayes ,Severe Storm(s)
+47643,Rogers ,Severe Storm(s)
+47919,Okmulgee ,Tornado
+48338,Muskogee ,Tornado
+49158,Creek ,Severe Storm(s)
+49226,Osage ,Severe Storm(s)
+49273,Rogers ,Severe Storm(s)
+49393,Mayes ,Severe Storm(s)
+49404,Okmulgee ,Severe Storm(s)
+49410,Tulsa ,Severe Storm(s)
+49478,Muskogee ,Severe Storm(s)
+49527,Washington ,Severe Storm(s)
+49662,Wagoner ,Severe Storm(s)
+49923,Creek ,Fire
+49934,Creek ,Fire
+50036,Creek ,Fire
+50041,Washington ,Fire
+50097,Wagoner ,Fire
+50357,Okmulgee ,Severe Storm(s)
+50362,Osage ,Severe Storm(s)
+50500,Creek (OTSA,Severe Storm(s)
+54847,Creek-Seminole Joint Area (OTSA,Biological
+54848,Creek (OTSA,Biological
+54861,Osage Indian Reservation,Biological
+54891,Creek ,Biological
+54921,Mayes ,Biological
+54923,Muskogee ,Biological
+54928,Osage ,Biological
+54929,Okmulgee ,Biological
+54939,Rogers ,Biological
+54943,Tulsa ,Biological
+54945,Wagoner ,Biological
+54946,Washington ,Biological
+57371,Creek (OTSA,Biological
+58441,Creek (OTSA,Biological
+58442,Creek-Seminole Joint Area (OTSA,Biological
+58455,Osage Indian Reservation,Biological
+58485,Creek ,Biological
+58515,Mayes ,Biological
+58517,Muskogee ,Biological
+58522,Okmulgee ,Biological
+58523,Osage ,Biological
+58532,Rogers ,Biological
+58538,Tulsa ,Biological
+58539,Wagoner ,Biological
+58540,Washington ,Biological
+58933,Osage Indian Reservation,Biological

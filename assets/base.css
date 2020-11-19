@@ -1,0 +1,266 @@
+body {
+  background-color: #1f2630;
+  width: 100%
+}
+
+.browser-banner {
+  background: #252e3f;
+  color: white;
+  padding: 5px;
+  padding-left: 48px;
+  height: 55px;
+}
+
+#h2-title1 {
+  font-family: 'Roboto';
+  display: inline-block;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 30px;
+  color: white;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+#h2-title2 {
+  font-family: 'Roboto';
+  display: inline-block;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 30px;
+  color: white;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+.vertical {
+  border-left: 3px solid rgba(242, 243, 244, 0.7);
+  height: 468px;
+  display: inline-block;
+  margin-left: .5%;
+  width: .5%;
+}
+
+.container {
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+
+#input-1num {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 50%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-2num {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 50%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-1cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-2cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-3cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-4cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-5cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-6cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-7cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-8cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#input-9cal {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 30%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 20px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+#age {
+  color: #252e3f;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#wkhp {
+  color: #252e3f;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#onlyEnglish {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#citizen {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#cow {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#degree {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#gender {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#ind {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#stem {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#wkw {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#race {
+  color: #252e3f;
+  border-radius: 10px;
+  content: #FFFFFF;
+  font-size: 25px;
+}
+
+#income-title {
+  font-family: 'Roboto';
+  display: inline-block;
+  width: 80%;
+  letter-spacing: 5px;
+  font-weight: 800;
+  font-size: 40px;
+  color: #252e3f;
+  padding-bottom: 10px;
+}
+
+.instruction {
+  width: 30%;
+  color: #252e3f;
+  margin-left: 80%;
+  padding-bottom: 10px;
+}

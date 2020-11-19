@@ -1,0 +1,349 @@
+,designatedArea,incidentType
+1855,Lincoln ,Severe Storm(s)
+1878,Pottawatomie ,Severe Storm(s)
+1880,Cleveland ,Severe Storm(s)
+3193,Cleveland ,Severe Storm(s)
+3236,Lincoln ,Severe Storm(s)
+3266,Canadian ,Severe Storm(s)
+3328,Garfield ,Severe Storm(s)
+3439,Garfield ,Flood
+3441,Kingfisher ,Flood
+3531,Cleveland ,Flood
+3862,Payne ,Flood
+3884,Logan ,Flood
+3887,Oklahoma ,Flood
+3935,Payne ,Flood
+3952,Lincoln ,Flood
+3967,Oklahoma ,Flood
+3968,Logan ,Flood
+3996,Pottawatomie ,Flood
+4000,Lincoln ,Flood
+4069,Canadian ,Flood
+4191,Payne ,Severe Storm(s)
+4330,Cleveland ,Severe Storm(s)
+4334,Kingfisher ,Severe Storm(s)
+4340,Lincoln ,Severe Storm(s)
+5139,Logan ,Flood
+5255,Payne ,Flood
+5494,Grady ,Flood
+5588,Kingfisher ,Flood
+5596,Lincoln ,Flood
+5762,Lincoln ,Flood
+5776,Payne ,Tornado
+6165,Canadian ,Flood
+6194,Oklahoma ,Flood
+6207,Logan ,Flood
+6327,Kingfisher ,Flood
+6389,Grady ,Flood
+6422,Oklahoma ,Flood
+6455,Cleveland ,Flood
+6571,Pottawatomie ,Flood
+6827,Kingfisher ,Flood
+6977,Cleveland ,Severe Storm(s)
+7032,Canadian ,Flood
+7076,Payne ,Severe Storm(s)
+7099,Logan ,Flood
+7137,Pottawatomie ,Flood
+7217,Garfield ,Flood
+7259,Payne ,Flood
+7381,Canadian ,Flood
+7693,Logan ,Flood
+7759,Cleveland ,Flood
+8025,Grady ,Flood
+8062,Cleveland ,Severe Storm(s)
+8528,Oklahoma ,Severe Storm(s)
+8656,Lincoln ,Severe Storm(s)
+8662,Lincoln ,Severe Storm(s)
+8748,Logan ,Severe Storm(s)
+8759,Pottawatomie ,Severe Storm(s)
+8907,Kingfisher ,Severe Storm(s)
+8932,Grady ,Severe Storm(s)
+9050,Logan ,Severe Storm(s)
+9151,Garfield ,Tornado
+9211,Oklahoma ,Human Cause
+9604,Kingfisher ,Severe Storm(s)
+9605,Grady ,Tornado
+9698,Canadian ,Severe Storm(s)
+9728,Payne ,Severe Storm(s)
+9750,Lincoln ,Tornado
+10154,Pottawatomie ,Severe Storm(s)
+10342,Logan ,Tornado
+10470,Oklahoma ,Severe Storm(s)
+11290,Canadian ,Severe Storm(s)
+12139,Oklahoma ,Severe Storm(s)
+12181,Pottawatomie ,Tornado
+12236,Kingfisher ,Tornado
+12905,Canadian ,Tornado
+14072,Canadian ,Severe Storm(s)
+15075,Kingfisher ,Severe Ice Storm
+15136,Grady ,Tornado
+15634,Canadian ,Severe Ice Storm
+15663,Garfield ,Severe Ice Storm
+15693,Payne ,Tornado
+15794,Logan ,Severe Ice Storm
+15833,Kingfisher ,Tornado
+15849,Payne ,Severe Ice Storm
+15853,Cleveland ,Tornado
+15903,Lincoln ,Tornado
+15970,Pottawatomie ,Tornado
+16226,Oklahoma ,Tornado
+16348,Canadian ,Severe Ice Storm
+16422,Lincoln ,Severe Ice Storm
+16638,Grady ,Severe Ice Storm
+16652,Lincoln ,Severe Ice Storm
+16685,Pottawatomie ,Severe Ice Storm
+16699,Canadian ,Tornado
+16772,Kingfisher ,Severe Storm(s)
+16816,Cleveland ,Severe Ice Storm
+17024,Oklahoma ,Severe Ice Storm
+17035,Payne ,Severe Ice Storm
+17335,Kingfisher ,Severe Ice Storm
+17362,Logan ,Severe Ice Storm
+17437,Cleveland ,Severe Ice Storm
+17442,Payne ,Severe Storm(s)
+17489,Garfield ,Severe Ice Storm
+17545,Cleveland ,Severe Storm(s)
+17682,Oklahoma ,Severe Storm(s)
+17699,Logan ,Tornado
+17763,Oklahoma ,Severe Ice Storm
+17807,Oklahoma ,Severe Storm(s)
+17812,Oklahoma ,Severe Storm(s)
+17842,Kingfisher ,Severe Ice Storm
+17871,Grady ,Severe Storm(s)
+18339,Payne ,Severe Ice Storm
+18441,Pottawatomie ,Severe Ice Storm
+18514,Canadian ,Severe Ice Storm
+18681,Grady ,Severe Storm(s)
+18742,Garfield ,Severe Storm(s)
+18890,Pottawatomie ,Severe Storm(s)
+19173,Lincoln ,Severe Storm(s)
+19236,Kingfisher ,Severe Storm(s)
+19425,Logan ,Severe Ice Storm
+19483,Grady ,Severe Ice Storm
+20086,Garfield ,Severe Storm(s)
+20098,Canadian ,Severe Storm(s)
+20146,Grady ,Severe Storm(s)
+20618,Logan ,Severe Storm(s)
+20948,Canadian ,Severe Storm(s)
+21459,Canadian ,Fire
+22124,Cleveland ,Severe Storm(s)
+22222,Lincoln ,Fire
+22473,Payne ,Fire
+22474,Payne ,Severe Storm(s)
+22534,Kingfisher ,Severe Storm(s)
+22541,Canadian ,Severe Storm(s)
+22551,Pottawatomie ,Severe Storm(s)
+22556,Canadian ,Severe Storm(s)
+22676,Lincoln ,Severe Storm(s)
+22886,Kingfisher ,Fire
+22952,Grady ,Fire
+23002,Cleveland ,Severe Storm(s)
+23104,Grady ,Severe Storm(s)
+23167,Lincoln ,Severe Storm(s)
+23206,Pottawatomie ,Severe Storm(s)
+23488,Grady ,Severe Ice Storm
+23496,Garfield ,Severe Storm(s)
+23603,Payne ,Severe Storm(s)
+23624,Kingfisher ,Severe Storm(s)
+23675,Pottawatomie ,Fire
+23809,Garfield ,Fire
+23818,Pottawatomie ,Severe Storm(s)
+23978,Cleveland ,Severe Storm(s)
+23983,Pottawatomie ,Severe Ice Storm
+24132,Lincoln ,Severe Ice Storm
+24208,Logan ,Severe Storm(s)
+24258,Logan ,Fire
+24262,Oklahoma ,Severe Storm(s)
+24278,Oklahoma ,Severe Storm(s)
+24312,Canadian ,Severe Storm(s)
+24353,Lincoln ,Severe Storm(s)
+24474,Logan ,Severe Storm(s)
+24477,Logan ,Flood
+24515,Kingfisher ,Flood
+24592,Cleveland ,Severe Ice Storm
+24629,Garfield ,Severe Storm(s)
+24708,Oklahoma ,Severe Storm(s)
+24713,Logan ,Severe Storm(s)
+24785,Lincoln ,Severe Storm(s)
+24849,Lincoln ,Fire
+25126,Cleveland ,Severe Storm(s)
+25234,Cleveland ,Fire
+25338,Logan ,Severe Storm(s)
+25407,Oklahoma ,Fire
+25448,Pottawatomie ,Severe Storm(s)
+25692,Grady ,Severe Storm(s)
+25737,Garfield ,Severe Storm(s)
+25912,Oklahoma ,Fire
+25931,Payne ,Severe Ice Storm
+25942,Kingfisher ,Severe Storm(s)
+26018,Oklahoma ,Severe Ice Storm
+26055,Pottawatomie ,Severe Storm(s)
+26110,Grady ,Severe Storm(s)
+26156,Pottawatomie ,Severe Storm(s)
+26206,Oklahoma ,Severe Storm(s)
+26353,Cleveland ,Severe Ice Storm
+26427,Cleveland ,Severe Storm(s)
+26887,Canadian ,Severe Ice Storm
+27299,Canadian ,Severe Storm(s)
+27536,Grady ,Severe Ice Storm
+27640,Logan ,Severe Storm(s)
+27667,Logan ,Severe Storm(s)
+27818,Logan ,Severe Ice Storm
+27882,Logan ,Severe Storm(s)
+27996,Pottawatomie ,Severe Ice Storm
+28056,Grady ,Fire
+28124,Lincoln ,Severe Ice Storm
+28240,Oklahoma ,Severe Storm(s)
+28325,Lincoln ,Severe Storm(s)
+28454,Oklahoma ,Fire
+28479,Canadian ,Fire
+28519,Grady ,Severe Storm(s)
+28584,Logan ,Severe Storm(s)
+28661,Cleveland ,Fire
+28819,Pottawatomie ,Severe Storm(s)
+28957,Lincoln ,Fire
+29048,Payne ,Fire
+29458,Oklahoma ,Fire
+29520,Logan ,Fire
+29550,Canadian ,Severe Ice Storm
+29681,Oklahoma ,Fire
+29768,Pottawatomie ,Fire
+29867,Kingfisher ,Fire
+29896,Pottawatomie ,Fire
+30090,Cleveland ,Fire
+30114,Grady ,Severe Storm(s)
+30171,Logan ,Severe Storm(s)
+30411,Oklahoma ,Fire
+30754,Oklahoma ,Fire
+30874,Oklahoma ,Fire
+30912,Oklahoma ,Fire
+31102,Oklahoma ,Fire
+31147,Oklahoma ,Fire
+31168,Logan ,Fire
+31321,Payne ,Fire
+31720,Canadian ,Severe Storm(s)
+31910,Cleveland ,Fire
+32117,Payne ,Fire
+32444,Oklahoma ,Fire
+32541,Cleveland ,Fire
+32544,Oklahoma ,Severe Ice Storm
+33067,Payne ,Fire
+33458,Pottawatomie ,Severe Ice Storm
+33574,Pottawatomie ,Fire
+33604,Lincoln ,Severe Ice Storm
+33684,Cleveland ,Hurricane
+34267,Kingfisher ,Hurricane
+34311,Pottawatomie ,Hurricane
+34326,Logan ,Hurricane
+34346,Cleveland ,Fire
+34414,Grady ,Severe Ice Storm
+34564,Cleveland ,Severe Ice Storm
+34612,Oklahoma ,Hurricane
+35371,Garfield ,Hurricane
+35602,Canadian ,Hurricane
+35715,Lincoln ,Hurricane
+35837,Grady ,Hurricane
+36077,Payne ,Hurricane
+38520,Garfield ,Severe Ice Storm
+38532,Grady ,Severe Ice Storm
+38540,Pottawatomie ,Severe Ice Storm
+38545,Lincoln ,Severe Ice Storm
+38550,Logan ,Severe Ice Storm
+38562,Cleveland ,Severe Ice Storm
+38571,Kingfisher ,Severe Ice Storm
+38581,Canadian ,Severe Ice Storm
+38664,Payne ,Severe Ice Storm
+38674,Oklahoma ,Severe Ice Storm
+38689,Pottawatomie ,Severe Ice Storm
+38690,Oklahoma ,Severe Ice Storm
+38702,Kingfisher ,Severe Ice Storm
+38714,Canadian ,Severe Ice Storm
+38722,Grady ,Severe Ice Storm
+38723,Garfield ,Severe Ice Storm
+38746,Lincoln ,Severe Ice Storm
+38757,Logan ,Severe Ice Storm
+38765,Payne ,Severe Ice Storm
+38793,Cleveland ,Severe Ice Storm
+40003,Payne ,Severe Storm(s)
+40011,Logan ,Severe Storm(s)
+40038,Garfield ,Severe Storm(s)
+40049,Pottawatomie ,Severe Storm(s)
+40050,Grady ,Severe Storm(s)
+40057,Kingfisher ,Severe Storm(s)
+40079,Cleveland ,Severe Storm(s)
+40092,Canadian ,Severe Storm(s)
+40100,Lincoln ,Severe Storm(s)
+40174,Oklahoma ,Severe Storm(s)
+40261,Lincoln ,Severe Storm(s)
+40273,Pottawatomie ,Severe Storm(s)
+40278,Garfield ,Severe Storm(s)
+40281,Canadian ,Severe Storm(s)
+40289,Cleveland ,Severe Storm(s)
+40293,Oklahoma ,Severe Storm(s)
+40306,Kingfisher ,Severe Storm(s)
+40315,Grady ,Severe Storm(s)
+40384,Logan ,Severe Storm(s)
+40395,Payne ,Severe Storm(s)
+44180,Cleveland ,Fire
+44677,Kingfisher ,Severe Storm(s)
+44681,Garfield ,Severe Storm(s)
+44725,Lincoln ,Tornado
+44735,Cleveland ,Tornado
+44737,Oklahoma ,Tornado
+44747,Canadian ,Tornado
+44767,Pottawatomie ,Tornado
+46010,Kingfisher ,Severe Storm(s)
+46016,Lincoln ,Severe Storm(s)
+46044,Logan ,Severe Storm(s)
+46048,Oklahoma ,Severe Storm(s)
+46049,Pottawatomie ,Severe Storm(s)
+46071,Grady ,Severe Storm(s)
+46079,Cleveland ,Severe Storm(s)
+46082,Canadian ,Severe Storm(s)
+46559,Oklahoma ,Severe Ice Storm
+46654,Kingfisher ,Severe Ice Storm
+46655,Grady ,Severe Ice Storm
+46656,Logan ,Severe Ice Storm
+46674,Canadian ,Severe Storm(s)
+46705,Canadian ,Severe Ice Storm
+46738,Grady ,Severe Storm(s)
+46778,Garfield ,Severe Ice Storm
+46868,Kingfisher ,Severe Storm(s)
+47164,Grady ,Flood
+47891,Logan ,Severe Storm(s)
+48002,Lincoln ,Severe Storm(s)
+49397,Canadian ,Severe Storm(s)
+49456,Garfield ,Severe Storm(s)
+49618,Kingfisher ,Severe Storm(s)
+49637,Payne ,Severe Storm(s)
+49639,Logan ,Severe Storm(s)
+49641,Pottawatomie ,Severe Storm(s)
+49879,Payne ,Fire
+49887,Oklahoma ,Fire
+49941,Payne ,Fire
+49958,Logan ,Fire
+50145,Cleveland ,Fire
+50183,Pottawatomie ,Fire
+50361,Lincoln ,Severe Storm(s)
+50382,Lincoln ,Severe Storm(s)
+50385,Grady ,Severe Storm(s)
+54881,Canadian ,Biological
+54885,Cleveland ,Biological
+54894,Garfield ,Biological
+54898,Grady ,Biological
+54910,Kingfisher ,Biological
+54913,Lincoln ,Biological
+54914,Logan ,Biological
+54927,Oklahoma ,Biological
+54931,Payne ,Biological
+54935,Pottawatomie ,Biological
+58475,Canadian ,Biological
+58480,Cleveland ,Biological
+58490,Garfield ,Biological
+58492,Grady ,Biological
+58503,Kingfisher ,Biological
+58507,Lincoln ,Biological
+58508,Logan ,Biological
+58521,Oklahoma ,Biological
+58526,Payne ,Biological
+58529,Pottawatomie ,Biological

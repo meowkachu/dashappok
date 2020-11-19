@@ -1,0 +1,2279 @@
+,designatedArea,incidentType
+34,Statewide,Flood
+45,Statewide,Tornado
+100,Statewide,Severe Storm(s)
+151,Statewide,Flood
+189,Statewide,Flood
+199,Statewide,Flood
+1016,Choctaw ,Flood
+1018,Haskell ,Flood
+1026,Pushmataha ,Flood
+1030,Le Flore ,Flood
+1049,Latimer ,Flood
+1855,Lincoln ,Severe Storm(s)
+1862,Garvin ,Severe Storm(s)
+1864,Pittsburg ,Severe Storm(s)
+1876,Coal ,Severe Storm(s)
+1878,Pottawatomie ,Severe Storm(s)
+1880,Cleveland ,Severe Storm(s)
+1892,Atoka ,Severe Storm(s)
+1895,Jefferson ,Severe Storm(s)
+1898,Latimer ,Severe Storm(s)
+1901,McClain ,Severe Storm(s)
+1907,Adair ,Severe Storm(s)
+1909,Seminole ,Severe Storm(s)
+1913,Carter ,Severe Storm(s)
+1919,Murray ,Severe Storm(s)
+2040,Pontotoc ,Severe Storm(s)
+2046,Tulsa ,Flood
+2048,Creek ,Flood
+2059,Osage ,Flood
+2065,Okmulgee ,Flood
+2091,Pushmataha ,Flood
+2093,Wagoner ,Flood
+2095,McCurtain ,Flood
+2104,Haskell ,Flood
+2108,Atoka ,Flood
+2116,Latimer ,Flood
+2118,Tulsa ,Flood
+2119,Wagoner ,Flood
+2123,Choctaw ,Flood
+2125,Sequoyah ,Flood
+2132,Pittsburg ,Flood
+2135,Cotton ,Flood
+2171,Le Flore ,Flood
+2178,Bryan ,Flood
+3177,Carter ,Severe Storm(s)
+3192,Atoka ,Severe Storm(s)
+3193,Cleveland ,Severe Storm(s)
+3210,Osage ,Severe Storm(s)
+3211,Latimer ,Severe Storm(s)
+3212,Haskell ,Severe Storm(s)
+3213,Garvin ,Severe Storm(s)
+3214,Washita ,Severe Storm(s)
+3217,Sequoyah ,Severe Storm(s)
+3218,Grant ,Severe Storm(s)
+3220,McIntosh ,Severe Storm(s)
+3222,McClain ,Severe Storm(s)
+3225,Coal ,Severe Storm(s)
+3230,Stephens ,Severe Storm(s)
+3232,Dewey ,Severe Storm(s)
+3233,Comanche ,Severe Storm(s)
+3234,Pontotoc ,Severe Storm(s)
+3236,Lincoln ,Severe Storm(s)
+3238,Mayes ,Severe Storm(s)
+3244,Pittsburg ,Severe Storm(s)
+3253,Choctaw ,Severe Storm(s)
+3266,Canadian ,Severe Storm(s)
+3269,Le Flore ,Severe Storm(s)
+3283,Delaware ,Severe Storm(s)
+3286,Muskogee ,Severe Storm(s)
+3288,Jefferson ,Severe Storm(s)
+3318,Washington ,Severe Storm(s)
+3326,Tulsa ,Severe Storm(s)
+3328,Garfield ,Severe Storm(s)
+3347,Tillman ,Severe Storm(s)
+3348,Jackson ,Severe Storm(s)
+3357,Kay ,Flood
+3358,Grant ,Flood
+3406,Murray ,Flood
+3410,Sequoyah ,Flood
+3417,Haskell ,Flood
+3418,Seminole ,Flood
+3421,Hughes ,Flood
+3422,Love ,Flood
+3428,Pittsburg ,Flood
+3432,McClain ,Flood
+3439,Garfield ,Flood
+3441,Kingfisher ,Flood
+3471,Noble ,Flood
+3486,Tulsa ,Flood
+3488,Kay ,Flood
+3514,Adair ,Flood
+3518,Garvin ,Flood
+3522,Latimer ,Flood
+3523,Le Flore ,Flood
+3531,Cleveland ,Flood
+3538,Kay ,Flood
+3596,Washington ,Flood
+3609,Ottawa ,Flood
+3622,Cherokee ,Flood
+3626,Rogers ,Flood
+3642,Osage ,Flood
+3862,Payne ,Flood
+3866,Wagoner ,Flood
+3870,Okfuskee ,Flood
+3871,Ottawa ,Flood
+3874,Seminole ,Flood
+3876,Tulsa ,Flood
+3884,Logan ,Flood
+3886,Rogers ,Flood
+3887,Oklahoma ,Flood
+3915,Adair ,Flood
+3935,Payne ,Flood
+3938,Osage ,Flood
+3942,Major ,Flood
+3944,Dewey ,Flood
+3952,Lincoln ,Flood
+3953,Creek ,Flood
+3955,Tulsa ,Flood
+3956,Washington ,Flood
+3964,Pawnee ,Flood
+3967,Oklahoma ,Flood
+3968,Logan ,Flood
+3985,Craig ,Flood
+3987,Osage ,Flood
+3991,Pittsburg ,Flood
+3996,Pottawatomie ,Flood
+4000,Lincoln ,Flood
+4003,Cherokee ,Flood
+4004,Okmulgee ,Flood
+4007,Delaware ,Flood
+4008,Creek ,Flood
+4064,Mayes ,Flood
+4069,Canadian ,Flood
+4079,Grant ,Flood
+4186,Jefferson ,Severe Storm(s)
+4189,Cotton ,Severe Storm(s)
+4191,Payne ,Severe Storm(s)
+4299,McClain ,Severe Storm(s)
+4321,Blaine ,Severe Storm(s)
+4330,Cleveland ,Severe Storm(s)
+4334,Kingfisher ,Severe Storm(s)
+4338,Mayes ,Severe Storm(s)
+4339,Major ,Severe Storm(s)
+4340,Lincoln ,Severe Storm(s)
+4575,Tulsa ,Tornado
+4580,Latimer ,Tornado
+4644,Latimer ,Tornado
+4654,Le Flore ,Tornado
+4667,Wagoner ,Flood
+4706,Tulsa ,Flood
+5070,Tillman ,Tornado
+5085,Stephens ,Tornado
+5102,Jefferson ,Tornado
+5133,Carter ,Tornado
+5139,Logan ,Flood
+5206,Marshall ,Flood
+5255,Payne ,Flood
+5296,Washington ,Tornado
+5344,Cotton ,Tornado
+5376,Comanche ,Tornado
+5494,Grady ,Flood
+5545,Atoka ,Flood
+5588,Kingfisher ,Flood
+5596,Lincoln ,Flood
+5617,McClain ,Flood
+5693,Washita ,Flood
+5726,Nowata ,Flood
+5734,Bryan ,Flood
+5749,Coal ,Flood
+5762,Lincoln ,Flood
+5768,Custer ,Flood
+5776,Payne ,Tornado
+5851,Jackson ,Flood
+5858,Okmulgee ,Tornado
+5864,Caddo ,Flood
+5873,Tulsa ,Flood
+5896,Tulsa ,Tornado
+5967,Blaine ,Flood
+6002,Okfuskee ,Flood
+6047,Tillman ,Flood
+6069,Jefferson ,Flood
+6132,Garvin ,Flood
+6165,Canadian ,Flood
+6190,Garvin ,Flood
+6194,Oklahoma ,Flood
+6207,Logan ,Flood
+6213,Noble ,Flood
+6218,Wagoner ,Flood
+6219,Delaware ,Flood
+6296,Murray ,Flood
+6297,Pawnee ,Tornado
+6324,Grant ,Flood
+6327,Kingfisher ,Flood
+6345,Cherokee ,Flood
+6356,Osage ,Tornado
+6365,Pawnee ,Flood
+6389,Grady ,Flood
+6390,Love ,Flood
+6422,Oklahoma ,Flood
+6423,Custer ,Flood
+6426,Creek ,Tornado
+6455,Cleveland ,Flood
+6461,Mayes ,Flood
+6478,Major ,Flood
+6502,Hughes ,Flood
+6571,Pottawatomie ,Flood
+6601,Osage ,Flood
+6608,Caddo ,Flood
+6624,Ottawa ,Flood
+6633,Tillman ,Flood
+6644,Muskogee ,Flood
+6647,Okfuskee ,Flood
+6679,McClain ,Flood
+6681,Wagoner ,Flood
+6682,Custer ,Flood
+6694,Kiowa ,Flood
+6737,Comanche ,Flood
+6744,Kay ,Flood
+6786,Sequoyah ,Flood
+6789,Wagoner ,Tornado
+6798,Tulsa ,Flood
+6800,Washita ,Flood
+6818,Stephens ,Flood
+6827,Kingfisher ,Flood
+6833,Okmulgee ,Flood
+6835,Rogers ,Flood
+6841,Creek ,Flood
+6862,Haskell ,Flood
+6880,Kay ,Flood
+6886,Comanche ,Flood
+6931,McClain ,Flood
+6941,Carter ,Flood
+6972,Cotton ,Flood
+6977,Cleveland ,Severe Storm(s)
+6981,Haskell ,Severe Storm(s)
+6986,Kiowa ,Flood
+7014,Okfuskee ,Flood
+7028,Greer ,Flood
+7032,Canadian ,Flood
+7067,Osage ,Flood
+7076,Payne ,Severe Storm(s)
+7099,Logan ,Flood
+7117,Delaware ,Severe Storm(s)
+7134,Washington ,Flood
+7137,Pottawatomie ,Flood
+7217,Garfield ,Flood
+7248,Noble ,Tornado
+7259,Payne ,Flood
+7311,Blaine ,Flood
+7326,Garvin ,Severe Storm(s)
+7329,Roger Mills ,Severe Storm(s)
+7373,Rogers ,Tornado
+7381,Canadian ,Flood
+7391,Ellis ,Severe Storm(s)
+7433,Beckham ,Flood
+7437,Rogers ,Flood
+7458,Caddo ,Flood
+7506,Latimer ,Severe Storm(s)
+7514,Cherokee ,Severe Storm(s)
+7515,Johnston ,Flood
+7564,Adair ,Flood
+7567,Caddo ,Severe Storm(s)
+7622,Cotton ,Flood
+7631,Carter ,Severe Storm(s)
+7634,Kiowa ,Flood
+7693,Logan ,Flood
+7709,Stephens ,Flood
+7738,Caddo ,Flood
+7740,Le Flore ,Severe Storm(s)
+7759,Cleveland ,Flood
+7793,Washington ,Severe Storm(s)
+7797,Adair ,Severe Storm(s)
+7864,Johnston ,Severe Storm(s)
+7865,Tillman ,Flood
+7943,McIntosh ,Severe Storm(s)
+7952,Comanche ,Flood
+7953,Coal ,Severe Storm(s)
+8025,Grady ,Flood
+8028,Sequoyah ,Severe Storm(s)
+8062,Cleveland ,Severe Storm(s)
+8068,Murray ,Severe Storm(s)
+8144,Washington ,Tornado
+8159,Seminole ,Severe Storm(s)
+8195,McCurtain ,Severe Storm(s)
+8237,Pushmataha ,Severe Storm(s)
+8256,Pittsburg ,Severe Storm(s)
+8258,Creek ,Severe Storm(s)
+8370,Marshall ,Severe Storm(s)
+8425,Marshall ,Severe Storm(s)
+8510,Pontotoc ,Severe Storm(s)
+8528,Oklahoma ,Severe Storm(s)
+8565,Adair ,Severe Storm(s)
+8568,Mayes ,Tornado
+8590,Okmulgee ,Severe Storm(s)
+8597,Jefferson ,Severe Storm(s)
+8656,Lincoln ,Severe Storm(s)
+8662,Lincoln ,Severe Storm(s)
+8741,Washita ,Severe Storm(s)
+8748,Logan ,Severe Storm(s)
+8759,Pottawatomie ,Severe Storm(s)
+8760,Love ,Severe Storm(s)
+8773,McClain ,Severe Storm(s)
+8778,Okfuskee ,Severe Storm(s)
+8785,Atoka ,Severe Storm(s)
+8801,Bryan ,Severe Storm(s)
+8815,Kiowa ,Severe Storm(s)
+8907,Kingfisher ,Severe Storm(s)
+8911,Stephens ,Severe Storm(s)
+8913,Love ,Severe Storm(s)
+8932,Grady ,Severe Storm(s)
+8940,Choctaw ,Severe Storm(s)
+9033,Cotton ,Severe Storm(s)
+9050,Logan ,Severe Storm(s)
+9066,Hughes ,Severe Storm(s)
+9128,McClain ,Severe Storm(s)
+9151,Garfield ,Tornado
+9211,Oklahoma ,Human Cause
+9220,Kay ,Severe Storm(s)
+9225,Atoka ,Tornado
+9231,Cotton ,Severe Storm(s)
+9261,Atoka ,Severe Storm(s)
+9327,Blaine ,Severe Storm(s)
+9334,Jefferson ,Severe Storm(s)
+9337,Tulsa ,Severe Storm(s)
+9339,Rogers ,Tornado
+9367,Major ,Severe Storm(s)
+9416,Bryan ,Severe Storm(s)
+9437,Pawnee ,Severe Storm(s)
+9539,Roger Mills ,Tornado
+9556,Caddo ,Severe Storm(s)
+9604,Kingfisher ,Severe Storm(s)
+9605,Grady ,Tornado
+9612,Alfalfa ,Severe Storm(s)
+9615,Kay ,Severe Storm(s)
+9622,Wagoner ,Severe Storm(s)
+9643,Woods ,Severe Storm(s)
+9657,Noble ,Severe Storm(s)
+9668,Craig ,Severe Storm(s)
+9698,Canadian ,Severe Storm(s)
+9719,Kiowa ,Tornado
+9728,Payne ,Severe Storm(s)
+9747,Carter ,Severe Storm(s)
+9750,Lincoln ,Tornado
+9751,Haskell ,Severe Storm(s)
+9910,Custer ,Severe Storm(s)
+9931,Cotton ,Tornado
+9952,Osage ,Tornado
+9966,Okmulgee ,Severe Storm(s)
+10024,Wagoner ,Tornado
+10036,Dewey ,Severe Storm(s)
+10067,Grant ,Severe Storm(s)
+10154,Pottawatomie ,Severe Storm(s)
+10217,Osage ,Severe Storm(s)
+10294,Pawnee ,Tornado
+10295,Alfalfa ,Severe Storm(s)
+10310,Ottawa ,Severe Storm(s)
+10336,Woodward ,Severe Storm(s)
+10342,Logan ,Tornado
+10365,Nowata ,Severe Storm(s)
+10384,Washita ,Severe Storm(s)
+10406,Woodward ,Tornado
+10408,Harmon ,Tornado
+10437,Blaine ,Severe Storm(s)
+10470,Oklahoma ,Severe Storm(s)
+10506,Sequoyah ,Severe Storm(s)
+10508,Pushmataha ,Severe Storm(s)
+10553,Jackson ,Severe Storm(s)
+10624,Alfalfa ,Tornado
+10705,Osage ,Tornado
+10706,Custer ,Severe Storm(s)
+10799,Major ,Tornado
+10932,Tillman ,Tornado
+10934,Tulsa ,Tornado
+10958,Nowata ,Tornado
+10979,Ellis ,Tornado
+11037,Major ,Severe Storm(s)
+11056,Tillman ,Severe Storm(s)
+11176,Carter ,Tornado
+11290,Canadian ,Severe Storm(s)
+11378,Murray ,Tornado
+11426,Jackson ,Tornado
+11548,Caddo ,Tornado
+11568,Creek ,Tornado
+11673,Washita ,Tornado
+11803,Custer ,Tornado
+11813,Greer ,Severe Storm(s)
+11843,Grant ,Severe Storm(s)
+11992,Cotton ,Severe Storm(s)
+12049,Beckham ,Tornado
+12111,Grant ,Tornado
+12134,Kiowa ,Severe Storm(s)
+12139,Oklahoma ,Severe Storm(s)
+12181,Pottawatomie ,Tornado
+12236,Kingfisher ,Tornado
+12337,Caddo ,Severe Storm(s)
+12385,Harmon ,Severe Storm(s)
+12449,Ottawa ,Tornado
+12610,Seminole ,Tornado
+12632,Woods ,Severe Storm(s)
+12905,Canadian ,Tornado
+13342,Le Flore ,Tornado
+13585,Greer ,Severe Ice Storm
+14036,Ottawa ,Severe Ice Storm
+14072,Canadian ,Severe Storm(s)
+14196,Okfuskee ,Severe Ice Storm
+14229,Tulsa ,Tornado
+14507,Cotton ,Severe Ice Storm
+14639,Okmulgee ,Tornado
+14652,Woods ,Severe Ice Storm
+14721,Major ,Severe Storm(s)
+14817,Jefferson ,Severe Storm(s)
+14885,Creek ,Severe Ice Storm
+14903,Comanche ,Severe Ice Storm
+15075,Kingfisher ,Severe Ice Storm
+15093,Kiowa ,Severe Ice Storm
+15097,Okfuskee ,Severe Storm(s)
+15136,Grady ,Tornado
+15246,Craig ,Severe Ice Storm
+15315,Roger Mills ,Severe Storm(s)
+15465,Craig ,Tornado
+15486,Le Flore ,Severe Ice Storm
+15534,Pontotoc ,Severe Ice Storm
+15541,McClain ,Tornado
+15554,Tillman ,Severe Storm(s)
+15586,Muskogee ,Severe Storm(s)
+15620,Washington ,Severe Ice Storm
+15628,Atoka ,Severe Ice Storm
+15634,Canadian ,Severe Ice Storm
+15663,Garfield ,Severe Ice Storm
+15688,Kay ,Severe Ice Storm
+15693,Payne ,Tornado
+15718,McIntosh ,Severe Ice Storm
+15760,Roger Mills ,Severe Ice Storm
+15780,McCurtain ,Severe Ice Storm
+15794,Logan ,Severe Ice Storm
+15833,Kingfisher ,Tornado
+15849,Payne ,Severe Ice Storm
+15853,Cleveland ,Tornado
+15880,Jefferson ,Severe Ice Storm
+15894,Creek ,Tornado
+15903,Lincoln ,Tornado
+15970,Pottawatomie ,Tornado
+15981,Caddo ,Severe Storm(s)
+16036,Garvin ,Severe Ice Storm
+16040,Jackson ,Severe Storm(s)
+16043,Pawnee ,Severe Ice Storm
+16055,Comanche ,Severe Ice Storm
+16091,Carter ,Severe Storm(s)
+16177,Beckham ,Severe Ice Storm
+16186,Marshall ,Severe Ice Storm
+16212,Carter ,Severe Storm(s)
+16219,Latimer ,Tornado
+16226,Oklahoma ,Tornado
+16288,Caddo ,Severe Storm(s)
+16294,Beckham ,Severe Ice Storm
+16308,Tulsa ,Severe Ice Storm
+16332,Pushmataha ,Severe Ice Storm
+16345,Harmon ,Severe Ice Storm
+16348,Canadian ,Severe Ice Storm
+16355,McClain ,Severe Ice Storm
+16362,Woodward ,Severe Ice Storm
+16402,Pittsburg ,Severe Ice Storm
+16422,Lincoln ,Severe Ice Storm
+16500,Caddo ,Severe Ice Storm
+16514,Johnston ,Severe Ice Storm
+16525,Jackson ,Severe Ice Storm
+16539,Haskell ,Severe Ice Storm
+16558,Custer ,Severe Ice Storm
+16585,Coal ,Severe Ice Storm
+16612,Wagoner ,Severe Ice Storm
+16614,Washita ,Severe Storm(s)
+16616,Beaver ,Severe Storm(s)
+16638,Grady ,Severe Ice Storm
+16652,Lincoln ,Severe Ice Storm
+16653,Beaver ,Severe Ice Storm
+16682,Caddo ,Tornado
+16683,Washita ,Severe Ice Storm
+16685,Pottawatomie ,Severe Ice Storm
+16688,Love ,Severe Ice Storm
+16694,McCurtain ,Severe Storm(s)
+16699,Canadian ,Tornado
+16729,Dewey ,Severe Storm(s)
+16731,Adair ,Severe Ice Storm
+16769,Sequoyah ,Severe Ice Storm
+16772,Kingfisher ,Severe Storm(s)
+16794,Seminole ,Severe Ice Storm
+16816,Cleveland ,Severe Ice Storm
+16846,Carter ,Severe Ice Storm
+16859,Haskell ,Severe Storm(s)
+16977,Pawnee ,Severe Ice Storm
+17007,Tillman ,Severe Ice Storm
+17024,Oklahoma ,Severe Ice Storm
+17035,Payne ,Severe Ice Storm
+17053,Comanche ,Severe Storm(s)
+17078,Muskogee ,Severe Ice Storm
+17091,Blaine ,Severe Ice Storm
+17104,Hughes ,Severe Ice Storm
+17116,Cotton ,Severe Storm(s)
+17144,Pushmataha ,Severe Storm(s)
+17152,Kiowa ,Severe Storm(s)
+17181,Jackson ,Severe Ice Storm
+17220,Noble ,Severe Ice Storm
+17221,Murray ,Severe Storm(s)
+17249,Pittsburg ,Severe Storm(s)
+17251,Harper ,Severe Ice Storm
+17255,Ottawa ,Tornado
+17261,Jefferson ,Severe Storm(s)
+17299,Kiowa ,Severe Storm(s)
+17315,Mayes ,Severe Ice Storm
+17335,Kingfisher ,Severe Ice Storm
+17340,Cherokee ,Severe Ice Storm
+17362,Logan ,Severe Ice Storm
+17376,Comanche ,Severe Storm(s)
+17397,Harmon ,Severe Ice Storm
+17405,Le Flore ,Severe Storm(s)
+17409,Beaver ,Severe Storm(s)
+17415,Okfuskee ,Severe Storm(s)
+17421,Bryan ,Severe Ice Storm
+17422,Love ,Severe Storm(s)
+17437,Cleveland ,Severe Ice Storm
+17442,Payne ,Severe Storm(s)
+17444,Custer ,Severe Ice Storm
+17456,Noble ,Tornado
+17461,Washita ,Severe Ice Storm
+17464,Jackson ,Severe Storm(s)
+17478,Roger Mills ,Severe Ice Storm
+17489,Garfield ,Severe Ice Storm
+17501,Coal ,Severe Storm(s)
+17511,Kiowa ,Severe Storm(s)
+17545,Cleveland ,Severe Storm(s)
+17570,Noble ,Severe Ice Storm
+17587,Choctaw ,Severe Storm(s)
+17631,Latimer ,Severe Ice Storm
+17646,Cherokee ,Severe Storm(s)
+17682,Oklahoma ,Severe Storm(s)
+17699,Logan ,Tornado
+17726,Tillman ,Severe Ice Storm
+17735,McClain ,Severe Storm(s)
+17750,Atoka ,Severe Storm(s)
+17763,Oklahoma ,Severe Ice Storm
+17779,Garvin ,Severe Ice Storm
+17788,Caddo ,Severe Ice Storm
+17796,Beckham ,Severe Ice Storm
+17807,Oklahoma ,Severe Storm(s)
+17809,Marshall ,Severe Storm(s)
+17812,Oklahoma ,Severe Storm(s)
+17819,Texas ,Severe Storm(s)
+17842,Kingfisher ,Severe Ice Storm
+17846,Greer ,Severe Ice Storm
+17849,Osage ,Severe Ice Storm
+17871,Grady ,Severe Storm(s)
+17875,Murray ,Severe Ice Storm
+17908,Washita ,Severe Ice Storm
+17927,Alfalfa ,Severe Ice Storm
+17959,Osage ,Severe Ice Storm
+17977,Choctaw ,Severe Ice Storm
+18022,Osage ,Severe Ice Storm
+18029,Custer ,Severe Storm(s)
+18035,Cotton ,Severe Storm(s)
+18037,Washita ,Severe Storm(s)
+18082,Caddo ,Severe Storm(s)
+18098,Delaware ,Severe Ice Storm
+18110,Carter ,Severe Storm(s)
+18124,Seminole ,Severe Storm(s)
+18137,Alfalfa ,Severe Storm(s)
+18261,Rogers ,Severe Ice Storm
+18262,Stephens ,Severe Ice Storm
+18339,Payne ,Severe Ice Storm
+18371,Ellis ,Severe Storm(s)
+18375,Mayes ,Severe Storm(s)
+18376,McClain ,Severe Storm(s)
+18441,Pottawatomie ,Severe Ice Storm
+18504,Texas ,Severe Ice Storm
+18514,Canadian ,Severe Ice Storm
+18532,Muskogee ,Severe Storm(s)
+18651,Tillman ,Severe Storm(s)
+18659,Roger Mills ,Severe Storm(s)
+18674,Blaine ,Severe Ice Storm
+18681,Grady ,Severe Storm(s)
+18699,Johnston ,Severe Storm(s)
+18711,Okmulgee ,Severe Storm(s)
+18721,Rogers ,Severe Ice Storm
+18726,Okmulgee ,Severe Ice Storm
+18742,Garfield ,Severe Storm(s)
+18821,McClain ,Severe Ice Storm
+18834,Blaine ,Severe Ice Storm
+18844,Washington ,Severe Ice Storm
+18890,Pottawatomie ,Severe Storm(s)
+18905,Garvin ,Severe Storm(s)
+18927,Cimarron ,Fire
+18958,Blaine ,Severe Storm(s)
+18974,Stephens ,Severe Storm(s)
+18989,Okmulgee ,Fire
+19075,Ellis ,Severe Ice Storm
+19099,Caddo ,Severe Ice Storm
+19105,Creek ,Severe Storm(s)
+19120,Cimarron ,Severe Storm(s)
+19125,Garvin ,Severe Storm(s)
+19150,Stephens ,Severe Ice Storm
+19162,Blaine ,Severe Storm(s)
+19169,Washington ,Severe Storm(s)
+19170,Cimarron ,Severe Storm(s)
+19173,Lincoln ,Severe Storm(s)
+19190,Nowata ,Severe Ice Storm
+19211,Latimer ,Fire
+19236,Kingfisher ,Severe Storm(s)
+19387,Grant ,Severe Ice Storm
+19415,Custer ,Severe Ice Storm
+19425,Logan ,Severe Ice Storm
+19442,Cimarron ,Severe Ice Storm
+19443,Nowata ,Severe Ice Storm
+19475,Harper ,Severe Storm(s)
+19483,Grady ,Severe Ice Storm
+19498,Creek ,Severe Ice Storm
+19536,Delaware ,Severe Storm(s)
+19604,Roger Mills ,Severe Ice Storm
+19630,Beaver ,Fire
+19632,Latimer ,Severe Storm(s)
+19653,Okmulgee ,Severe Storm(s)
+19671,Dewey ,Severe Ice Storm
+19674,Pawnee ,Severe Ice Storm
+19722,Kiowa ,Severe Ice Storm
+19774,Mayes ,Fire
+19917,Major ,Severe Ice Storm
+19957,Ottawa ,Severe Storm(s)
+19993,Kay ,Severe Ice Storm
+20070,Texas ,Severe Storm(s)
+20086,Garfield ,Severe Storm(s)
+20098,Canadian ,Severe Storm(s)
+20146,Grady ,Severe Storm(s)
+20150,Osage ,Severe Storm(s)
+20184,Beckham ,Severe Storm(s)
+20200,Kiowa ,Severe Ice Storm
+20305,Washington ,Fire
+20440,Nowata ,Severe Storm(s)
+20554,Woodward ,Severe Storm(s)
+20618,Logan ,Severe Storm(s)
+20763,Wagoner ,Severe Storm(s)
+20845,Kiowa ,Fire
+20948,Canadian ,Severe Storm(s)
+20966,Bryan ,Severe Storm(s)
+20988,Tulsa ,Severe Ice Storm
+21006,Ottawa ,Fire
+21042,Harper ,Fire
+21050,Cotton ,Fire
+21064,Jefferson ,Fire
+21069,Pontotoc ,Severe Storm(s)
+21122,Woods ,Fire
+21124,Dewey ,Fire
+21317,Harmon ,Fire
+21332,Noble ,Severe Storm(s)
+21354,Beaver ,Severe Ice Storm
+21388,Craig ,Fire
+21424,Garvin ,Severe Storm(s)
+21433,Pontotoc ,Fire
+21435,McClain ,Severe Storm(s)
+21436,Bryan ,Fire
+21454,Haskell ,Fire
+21457,Kay ,Severe Storm(s)
+21459,Canadian ,Fire
+21499,Murray ,Fire
+21512,Blaine ,Fire
+21527,Muskogee ,Fire
+21549,Cherokee ,Fire
+21595,Choctaw ,Fire
+21682,Johnston ,Severe Storm(s)
+21697,Custer ,Fire
+21705,McClain ,Fire
+21714,Cotton ,Severe Storm(s)
+21719,Major ,Severe Storm(s)
+21779,Kay ,Severe Storm(s)
+21789,Delaware ,Severe Storm(s)
+21806,Caddo ,Severe Storm(s)
+21816,Coal ,Fire
+21868,Greer ,Fire
+21897,Creek ,Severe Ice Storm
+21900,Carter ,Severe Storm(s)
+21917,McClain ,Severe Storm(s)
+21939,Delaware ,Flood
+21989,Alfalfa ,Severe Storm(s)
+21992,Caddo ,Fire
+22001,Cotton ,Severe Storm(s)
+22043,Comanche ,Fire
+22069,Craig ,Severe Storm(s)
+22117,Mayes ,Severe Ice Storm
+22124,Cleveland ,Severe Storm(s)
+22137,Alfalfa ,Fire
+22159,Pontotoc ,Severe Storm(s)
+22165,Woods ,Severe Storm(s)
+22176,Rogers ,Severe Storm(s)
+22222,Lincoln ,Fire
+22241,Garvin ,Fire
+22242,Cherokee ,Severe Storm(s)
+22274,McClain ,Severe Storm(s)
+22287,Pushmataha ,Flood
+22292,Love ,Severe Storm(s)
+22338,Pawnee ,Severe Storm(s)
+22356,Carter ,Fire
+22379,Cotton ,Severe Storm(s)
+22383,McIntosh ,Severe Storm(s)
+22399,Johnston ,Severe Storm(s)
+22400,Okfuskee ,Fire
+22424,Hughes ,Severe Storm(s)
+22435,McIntosh ,Severe Storm(s)
+22455,Atoka ,Severe Storm(s)
+22473,Payne ,Fire
+22474,Payne ,Severe Storm(s)
+22534,Kingfisher ,Severe Storm(s)
+22541,Canadian ,Severe Storm(s)
+22545,Delaware ,Severe Storm(s)
+22551,Pottawatomie ,Severe Storm(s)
+22556,Canadian ,Severe Storm(s)
+22574,McIntosh ,Fire
+22576,Stephens ,Fire
+22587,Johnston ,Fire
+22593,Love ,Fire
+22598,Rogers ,Severe Storm(s)
+22676,Lincoln ,Severe Storm(s)
+22687,Tulsa ,Fire
+22714,Wagoner ,Fire
+22719,Nowata ,Severe Storm(s)
+22722,Caddo ,Severe Ice Storm
+22774,McClain ,Severe Storm(s)
+22778,Grant ,Severe Storm(s)
+22815,Stephens ,Severe Storm(s)
+22818,Rogers ,Severe Storm(s)
+22825,Delaware ,Severe Storm(s)
+22829,Hughes ,Fire
+22873,Pawnee ,Severe Ice Storm
+22886,Kingfisher ,Fire
+22891,Hughes ,Severe Storm(s)
+22947,Tulsa ,Severe Storm(s)
+22952,Grady ,Fire
+22955,Nowata ,Fire
+22970,Atoka ,Fire
+22986,Pontotoc ,Severe Storm(s)
+23002,Cleveland ,Severe Storm(s)
+23013,Atoka ,Severe Storm(s)
+23015,Beckham ,Fire
+23019,Okmulgee ,Severe Ice Storm
+23037,Wagoner ,Severe Ice Storm
+23042,Blaine ,Severe Storm(s)
+23055,Marshall ,Fire
+23068,Delaware ,Fire
+23078,Love ,Flood
+23079,Rogers ,Flood
+23080,Pushmataha ,Fire
+23084,Choctaw ,Severe Storm(s)
+23104,Grady ,Severe Storm(s)
+23122,Jackson ,Fire
+23126,Noble ,Fire
+23140,Dewey ,Severe Storm(s)
+23154,Latimer ,Severe Storm(s)
+23167,Lincoln ,Severe Storm(s)
+23192,Ottawa ,Flood
+23206,Pottawatomie ,Severe Storm(s)
+23218,Ottawa ,Severe Storm(s)
+23232,Sequoyah ,Severe Storm(s)
+23241,Kiowa ,Severe Storm(s)
+23249,Blaine ,Severe Storm(s)
+23255,Pawnee ,Severe Storm(s)
+23258,Wagoner ,Severe Storm(s)
+23287,Sequoyah ,Flood
+23291,Caddo ,Severe Storm(s)
+23300,Garvin ,Severe Storm(s)
+23308,Bryan ,Severe Storm(s)
+23311,Beckham ,Severe Storm(s)
+23316,Kiowa ,Severe Storm(s)
+23377,Alfalfa ,Severe Storm(s)
+23378,Washita ,Severe Storm(s)
+23381,McIntosh ,Severe Storm(s)
+23421,Comanche ,Severe Storm(s)
+23424,Tillman ,Severe Storm(s)
+23451,Delaware ,Severe Ice Storm
+23477,Washita ,Severe Storm(s)
+23480,Blaine ,Severe Storm(s)
+23488,Grady ,Severe Ice Storm
+23496,Garfield ,Severe Storm(s)
+23517,Beckham ,Severe Storm(s)
+23532,Greer ,Severe Storm(s)
+23541,Custer ,Severe Storm(s)
+23545,Okmulgee ,Severe Storm(s)
+23565,McIntosh ,Flood
+23571,Adair ,Flood
+23576,Creek ,Fire
+23583,Washington ,Severe Storm(s)
+23588,Alfalfa ,Severe Storm(s)
+23600,Dewey ,Severe Storm(s)
+23603,Payne ,Severe Storm(s)
+23609,McCurtain ,Fire
+23624,Kingfisher ,Severe Storm(s)
+23638,Muskogee ,Severe Storm(s)
+23643,Washington ,Severe Storm(s)
+23664,Woodward ,Fire
+23667,Seminole ,Fire
+23672,Washita ,Severe Storm(s)
+23675,Pottawatomie ,Fire
+23683,Latimer ,Flood
+23702,Sequoyah ,Severe Storm(s)
+23710,Pittsburg ,Fire
+23754,Le Flore ,Fire
+23775,Wagoner ,Severe Storm(s)
+23779,Okmulgee ,Severe Storm(s)
+23783,Tillman ,Flood
+23784,Washington ,Severe Ice Storm
+23798,Pawnee ,Fire
+23809,Garfield ,Fire
+23818,Pottawatomie ,Severe Storm(s)
+23819,Delaware ,Severe Storm(s)
+23854,Sequoyah ,Severe Storm(s)
+23865,Craig ,Severe Ice Storm
+23870,Woods ,Severe Storm(s)
+23893,Dewey ,Severe Storm(s)
+23897,Kay ,Severe Storm(s)
+23902,Wagoner ,Flood
+23903,Muskogee ,Severe Storm(s)
+23907,Jackson ,Severe Storm(s)
+23910,Rogers ,Fire
+23945,Okfuskee ,Severe Ice Storm
+23973,Craig ,Severe Storm(s)
+23978,Cleveland ,Severe Storm(s)
+23980,Pittsburg ,Flood
+23983,Pottawatomie ,Severe Ice Storm
+23985,Tulsa ,Severe Storm(s)
+23995,Tillman ,Fire
+24036,Seminole ,Severe Storm(s)
+24043,Latimer ,Severe Storm(s)
+24044,Adair ,Severe Storm(s)
+24052,Nowata ,Severe Storm(s)
+24064,Woods ,Severe Storm(s)
+24077,Kay ,Severe Storm(s)
+24119,Choctaw ,Severe Storm(s)
+24127,Alfalfa ,Severe Storm(s)
+24132,Lincoln ,Severe Ice Storm
+24137,Seminole ,Severe Ice Storm
+24143,Muskogee ,Flood
+24153,Kiowa ,Severe Storm(s)
+24167,Okfuskee ,Severe Storm(s)
+24170,Ellis ,Severe Storm(s)
+24185,Kiowa ,Severe Storm(s)
+24202,McIntosh ,Severe Storm(s)
+24208,Logan ,Severe Storm(s)
+24231,Stephens ,Severe Storm(s)
+24234,Adair ,Fire
+24252,Comanche ,Severe Storm(s)
+24254,Beaver ,Severe Storm(s)
+24258,Logan ,Fire
+24262,Oklahoma ,Severe Storm(s)
+24273,Carter ,Severe Storm(s)
+24278,Oklahoma ,Severe Storm(s)
+24288,Hughes ,Severe Storm(s)
+24312,Canadian ,Severe Storm(s)
+24317,Roger Mills ,Fire
+24334,Texas ,Fire
+24339,Nowata ,Severe Storm(s)
+24346,Osage ,Severe Storm(s)
+24353,Lincoln ,Severe Storm(s)
+24390,Okfuskee ,Flood
+24429,Dewey ,Severe Storm(s)
+24440,Le Flore ,Severe Storm(s)
+24457,Comanche ,Severe Storm(s)
+24458,Garvin ,Severe Storm(s)
+24474,Logan ,Severe Storm(s)
+24477,Logan ,Flood
+24480,Kay ,Severe Storm(s)
+24482,Stephens ,Severe Storm(s)
+24483,Texas ,Severe Storm(s)
+24509,Ellis ,Fire
+24510,Latimer ,Severe Storm(s)
+24515,Kingfisher ,Flood
+24556,Seminole ,Flood
+24561,Cimarron ,Severe Storm(s)
+24580,Seminole ,Severe Storm(s)
+24581,Pontotoc ,Severe Ice Storm
+24586,Pawnee ,Flood
+24592,Cleveland ,Severe Ice Storm
+24599,Cotton ,Severe Storm(s)
+24618,Okfuskee ,Severe Storm(s)
+24628,Mayes ,Severe Storm(s)
+24629,Garfield ,Severe Storm(s)
+24634,Tulsa ,Severe Ice Storm
+24649,Caddo ,Flood
+24651,Okfuskee ,Severe Storm(s)
+24654,Washita ,Fire
+24655,Ottawa ,Severe Storm(s)
+24661,Okfuskee ,Severe Storm(s)
+24665,Osage ,Fire
+24668,Kay ,Severe Storm(s)
+24675,Woods ,Severe Storm(s)
+24685,Grant ,Fire
+24700,Cimarron ,Severe Storm(s)
+24708,Oklahoma ,Severe Storm(s)
+24713,Logan ,Severe Storm(s)
+24724,Comanche ,Severe Storm(s)
+24731,Okmulgee ,Severe Storm(s)
+24738,Harper ,Severe Storm(s)
+24741,McCurtain ,Severe Storm(s)
+24753,Haskell ,Severe Storm(s)
+24762,Bryan ,Severe Storm(s)
+24776,Jackson ,Severe Storm(s)
+24785,Lincoln ,Severe Storm(s)
+24800,Osage ,Severe Storm(s)
+24802,Hughes ,Severe Storm(s)
+24806,Coal ,Severe Storm(s)
+24807,Nowata ,Severe Ice Storm
+24811,Washita ,Severe Storm(s)
+24849,Lincoln ,Fire
+24850,Roger Mills ,Severe Storm(s)
+24865,Dewey ,Severe Storm(s)
+24907,Creek ,Severe Ice Storm
+24912,Ottawa ,Severe Ice Storm
+24926,Okfuskee ,Severe Storm(s)
+24930,Pittsburg ,Severe Storm(s)
+24953,Major ,Severe Storm(s)
+24961,Harper ,Severe Storm(s)
+24970,Okfuskee ,Severe Storm(s)
+24971,Ellis ,Severe Storm(s)
+24991,Grant ,Severe Storm(s)
+24997,Pushmataha ,Severe Storm(s)
+25008,Harper ,Severe Storm(s)
+25024,Coal ,Severe Storm(s)
+25035,Murray ,Severe Ice Storm
+25049,Noble ,Severe Storm(s)
+25082,Okmulgee ,Severe Ice Storm
+25126,Cleveland ,Severe Storm(s)
+25129,Osage ,Severe Ice Storm
+25142,Coal ,Flood
+25160,Kay ,Fire
+25169,Pittsburg ,Severe Storm(s)
+25172,Seminole ,Severe Storm(s)
+25176,Greer ,Severe Storm(s)
+25186,Latimer ,Severe Storm(s)
+25189,Le Flore ,Fire
+25214,Seminole ,Severe Storm(s)
+25215,Roger Mills ,Severe Storm(s)
+25234,Cleveland ,Fire
+25248,Tillman ,Severe Storm(s)
+25257,Haskell ,Flood
+25266,Ellis ,Severe Storm(s)
+25273,McClain ,Severe Ice Storm
+25288,Jefferson ,Severe Storm(s)
+25289,Pushmataha ,Severe Storm(s)
+25299,Stephens ,Fire
+25316,Rogers ,Severe Storm(s)
+25338,Logan ,Severe Storm(s)
+25361,Kay ,Severe Storm(s)
+25402,Okfuskee ,Severe Storm(s)
+25407,Oklahoma ,Fire
+25437,Sequoyah ,Fire
+25440,Custer ,Severe Storm(s)
+25448,Pottawatomie ,Severe Storm(s)
+25506,Osage ,Severe Storm(s)
+25509,Jefferson ,Severe Storm(s)
+25513,Stephens ,Severe Storm(s)
+25519,Muskogee ,Severe Storm(s)
+25522,Caddo ,Severe Ice Storm
+25554,Beaver ,Severe Storm(s)
+25557,Seminole ,Severe Storm(s)
+25560,Mayes ,Severe Storm(s)
+25568,Craig ,Severe Storm(s)
+25570,McIntosh ,Severe Storm(s)
+25572,Mayes ,Severe Storm(s)
+25601,Bryan ,Severe Storm(s)
+25622,Adair ,Severe Storm(s)
+25631,Caddo ,Severe Storm(s)
+25636,Sequoyah ,Severe Storm(s)
+25644,Tillman ,Severe Storm(s)
+25670,Tillman ,Severe Storm(s)
+25672,Woodward ,Severe Storm(s)
+25675,Pontotoc ,Severe Storm(s)
+25687,Pontotoc ,Severe Storm(s)
+25688,Osage ,Severe Storm(s)
+25692,Grady ,Severe Storm(s)
+25701,Delaware ,Severe Ice Storm
+25710,Major ,Fire
+25713,Washington ,Severe Storm(s)
+25730,Seminole ,Severe Ice Storm
+25734,Cotton ,Severe Storm(s)
+25735,McCurtain ,Severe Storm(s)
+25737,Garfield ,Severe Storm(s)
+25796,Coal ,Severe Storm(s)
+25816,Custer ,Severe Ice Storm
+25842,Cherokee ,Severe Ice Storm
+25846,Cotton ,Severe Storm(s)
+25853,Stephens ,Severe Storm(s)
+25855,Muskogee ,Severe Ice Storm
+25870,Ottawa ,Severe Storm(s)
+25873,McIntosh ,Severe Storm(s)
+25874,Okfuskee ,Severe Storm(s)
+25890,Blaine ,Severe Ice Storm
+25912,Oklahoma ,Fire
+25926,Mayes ,Flood
+25931,Payne ,Severe Ice Storm
+25942,Kingfisher ,Severe Storm(s)
+25980,Jefferson ,Severe Storm(s)
+26018,Oklahoma ,Severe Ice Storm
+26020,Adair ,Severe Storm(s)
+26038,Rogers ,Severe Ice Storm
+26047,McClain ,Severe Storm(s)
+26055,Pottawatomie ,Severe Storm(s)
+26077,Dewey ,Severe Storm(s)
+26099,Beckham ,Severe Storm(s)
+26103,Harmon ,Severe Storm(s)
+26110,Grady ,Severe Storm(s)
+26155,Pittsburg ,Severe Storm(s)
+26156,Pottawatomie ,Severe Storm(s)
+26206,Oklahoma ,Severe Storm(s)
+26215,Hughes ,Severe Storm(s)
+26223,Wagoner ,Severe Ice Storm
+26231,McIntosh ,Fire
+26263,Ottawa ,Severe Storm(s)
+26353,Cleveland ,Severe Ice Storm
+26360,Creek ,Severe Storm(s)
+26365,Pushmataha ,Severe Storm(s)
+26369,Creek ,Severe Storm(s)
+26373,Hughes ,Flood
+26382,Delaware ,Severe Storm(s)
+26402,Garvin ,Severe Storm(s)
+26425,Pawnee ,Severe Ice Storm
+26427,Cleveland ,Severe Storm(s)
+26431,Major ,Severe Storm(s)
+26444,Caddo ,Severe Storm(s)
+26465,Stephens ,Severe Storm(s)
+26489,McClain ,Severe Storm(s)
+26493,Grant ,Severe Storm(s)
+26509,Jefferson ,Severe Storm(s)
+26511,Sequoyah ,Severe Storm(s)
+26517,Comanche ,Severe Storm(s)
+26576,Murray ,Fire
+26587,Hughes ,Severe Storm(s)
+26623,Marshall ,Severe Storm(s)
+26629,Jackson ,Severe Ice Storm
+26646,Tillman ,Severe Storm(s)
+26657,Atoka ,Severe Storm(s)
+26673,Alfalfa ,Severe Storm(s)
+26683,Noble ,Severe Storm(s)
+26684,Cherokee ,Severe Storm(s)
+26753,Love ,Severe Storm(s)
+26772,Dewey ,Severe Storm(s)
+26778,Okmulgee ,Severe Storm(s)
+26800,Custer ,Severe Storm(s)
+26801,Washita ,Severe Storm(s)
+26821,Major ,Severe Storm(s)
+26832,Grant ,Severe Ice Storm
+26857,Dewey ,Severe Ice Storm
+26859,Haskell ,Severe Storm(s)
+26870,Tillman ,Severe Ice Storm
+26887,Canadian ,Severe Ice Storm
+26892,Atoka ,Severe Storm(s)
+26900,Pittsburg ,Severe Storm(s)
+26916,Okmulgee ,Severe Storm(s)
+26939,Woodward ,Severe Storm(s)
+26967,McIntosh ,Severe Storm(s)
+27003,Statewide,Fire
+27037,Haskell ,Severe Storm(s)
+27056,Ellis ,Severe Storm(s)
+27091,McClain ,Fire
+27109,Bryan ,Severe Storm(s)
+27114,Texas ,Severe Ice Storm
+27118,Greer ,Severe Ice Storm
+27145,Carter ,Fire
+27149,Carter ,Severe Storm(s)
+27155,Beckham ,Severe Ice Storm
+27172,Pushmataha ,Severe Storm(s)
+27173,Nowata ,Severe Storm(s)
+27207,Garvin ,Severe Storm(s)
+27240,Rogers ,Severe Storm(s)
+27274,Hughes ,Severe Ice Storm
+27282,Osage ,Severe Storm(s)
+27287,Pawnee ,Severe Storm(s)
+27299,Canadian ,Severe Storm(s)
+27350,Ottawa ,Severe Ice Storm
+27383,Comanche ,Severe Storm(s)
+27394,Haskell ,Severe Ice Storm
+27418,Delaware ,Severe Storm(s)
+27425,Beaver ,Severe Storm(s)
+27434,Grant ,Severe Storm(s)
+27451,Jackson ,Severe Storm(s)
+27460,Roger Mills ,Severe Storm(s)
+27466,Texas ,Severe Storm(s)
+27483,Comanche ,Severe Storm(s)
+27505,Garvin ,Severe Storm(s)
+27506,Cotton ,Severe Storm(s)
+27515,Craig ,Severe Storm(s)
+27527,Johnston ,Flood
+27536,Grady ,Severe Ice Storm
+27539,Comanche ,Severe Ice Storm
+27549,Harmon ,Severe Storm(s)
+27583,Greer ,Severe Storm(s)
+27590,Ottawa ,Severe Storm(s)
+27602,Okfuskee ,Severe Ice Storm
+27611,Statewide,Fire
+27624,Muskogee ,Severe Storm(s)
+27640,Logan ,Severe Storm(s)
+27667,Logan ,Severe Storm(s)
+27706,Tillman ,Severe Storm(s)
+27718,Beaver ,Severe Ice Storm
+27730,Nowata ,Severe Ice Storm
+27778,Seminole ,Severe Storm(s)
+27789,Garvin ,Fire
+27796,Noble ,Severe Storm(s)
+27818,Logan ,Severe Ice Storm
+27835,Garvin ,Fire
+27852,Love ,Severe Storm(s)
+27856,Kiowa ,Severe Ice Storm
+27857,Mayes ,Severe Ice Storm
+27882,Logan ,Severe Storm(s)
+27885,Okmulgee ,Severe Storm(s)
+27886,Craig ,Severe Ice Storm
+27902,Sequoyah ,Severe Ice Storm
+27949,Creek ,Fire
+27953,Okmulgee ,Severe Storm(s)
+27954,McIntosh ,Severe Storm(s)
+27996,Pottawatomie ,Severe Ice Storm
+28056,Grady ,Fire
+28078,Muskogee ,Severe Storm(s)
+28095,Statewide,Fire
+28124,Lincoln ,Severe Ice Storm
+28151,Carter ,Fire
+28155,Carter ,Fire
+28170,Ellis ,Severe Ice Storm
+28200,Grant ,Severe Storm(s)
+28230,Cimarron ,Severe Storm(s)
+28234,Haskell ,Severe Storm(s)
+28240,Oklahoma ,Severe Storm(s)
+28249,Grant ,Severe Storm(s)
+28276,Cherokee ,Severe Storm(s)
+28306,Haskell ,Severe Storm(s)
+28316,Statewide,Fire
+28325,Lincoln ,Severe Storm(s)
+28329,Kiowa ,Severe Storm(s)
+28344,Major ,Severe Ice Storm
+28351,Nowata ,Severe Storm(s)
+28417,Wagoner ,Severe Storm(s)
+28454,Oklahoma ,Fire
+28470,Comanche ,Fire
+28479,Canadian ,Fire
+28519,Grady ,Severe Storm(s)
+28584,Logan ,Severe Storm(s)
+28600,Delaware ,Severe Storm(s)
+28608,Roger Mills ,Severe Ice Storm
+28620,Washita ,Severe Ice Storm
+28639,Carter ,Fire
+28661,Cleveland ,Fire
+28664,Carter ,Severe Ice Storm
+28670,Tulsa ,Severe Ice Storm
+28688,Major ,Severe Storm(s)
+28694,Osage ,Severe Storm(s)
+28713,McClain ,Severe Ice Storm
+28725,Rogers ,Severe Ice Storm
+28730,Statewide,Fire
+28732,Alfalfa ,Severe Storm(s)
+28770,Okfuskee ,Fire
+28798,Pawnee ,Fire
+28819,Pottawatomie ,Severe Storm(s)
+28843,Washington ,Severe Ice Storm
+28868,Okmulgee ,Severe Storm(s)
+28955,Creek ,Severe Storm(s)
+28957,Lincoln ,Fire
+28961,Mayes ,Severe Storm(s)
+29048,Payne ,Fire
+29060,Caddo ,Fire
+29093,Cotton ,Severe Ice Storm
+29120,Okfuskee ,Severe Storm(s)
+29123,Mayes ,Fire
+29151,Woodward ,Fire
+29212,Woodward ,Fire
+29216,Creek ,Fire
+29265,Nowata ,Severe Storm(s)
+29295,Garvin ,Severe Ice Storm
+29326,Love ,Severe Storm(s)
+29381,Caddo ,Severe Storm(s)
+29392,Le Flore ,Severe Ice Storm
+29407,McCurtain ,Severe Storm(s)
+29411,Seminole ,Severe Storm(s)
+29458,Oklahoma ,Fire
+29466,Stephens ,Severe Ice Storm
+29520,Logan ,Fire
+29527,McClain ,Severe Storm(s)
+29537,Creek ,Fire
+29550,Canadian ,Severe Ice Storm
+29562,Kiowa ,Fire
+29672,Statewide,Fire
+29681,Oklahoma ,Fire
+29713,Ottawa ,Severe Storm(s)
+29716,Craig ,Severe Storm(s)
+29760,Comanche ,Fire
+29768,Pottawatomie ,Fire
+29771,Cherokee ,Severe Ice Storm
+29867,Kingfisher ,Fire
+29896,Pottawatomie ,Fire
+29945,Le Flore ,Severe Storm(s)
+29960,McIntosh ,Fire
+29995,Le Flore ,Severe Storm(s)
+30007,Statewide,Fire
+30019,Statewide,Fire
+30020,Murray ,Fire
+30047,Pawnee ,Severe Storm(s)
+30062,Creek ,Fire
+30090,Cleveland ,Fire
+30114,Grady ,Severe Storm(s)
+30116,Blaine ,Severe Storm(s)
+30170,Pontotoc ,Severe Ice Storm
+30171,Logan ,Severe Storm(s)
+30185,McIntosh ,Fire
+30193,Statewide,Fire
+30203,Alfalfa ,Severe Ice Storm
+30254,Sequoyah ,Severe Storm(s)
+30263,Jackson ,Severe Storm(s)
+30267,Osage ,Fire
+30319,Statewide,Fire
+30324,Adair ,Severe Storm(s)
+30333,Noble ,Fire
+30411,Oklahoma ,Fire
+30424,Creek ,Severe Storm(s)
+30455,Statewide,Fire
+30471,Tulsa ,Severe Storm(s)
+30550,McClain ,Fire
+30592,Bryan ,Fire
+30679,McClain ,Fire
+30705,Pawnee ,Fire
+30737,Statewide,Human Cause
+30744,Major ,Severe Storm(s)
+30754,Oklahoma ,Fire
+30826,Seminole ,Fire
+30866,Stephens ,Fire
+30874,Oklahoma ,Fire
+30912,Oklahoma ,Fire
+30927,Cherokee ,Severe Storm(s)
+31020,Caddo ,Fire
+31023,McClain ,Fire
+31027,Jefferson ,Severe Storm(s)
+31064,Pittsburg ,Severe Ice Storm
+31095,Comanche ,Fire
+31102,Oklahoma ,Fire
+31109,Tulsa ,Fire
+31147,Oklahoma ,Fire
+31153,Osage ,Fire
+31168,Logan ,Fire
+31171,Craig ,Severe Storm(s)
+31185,Creek ,Fire
+31227,Woodward ,Fire
+31302,Kay ,Fire
+31321,Payne ,Fire
+31409,Murray ,Fire
+31462,Muskogee ,Fire
+31594,Statewide,Fire
+31662,Osage ,Severe Storm(s)
+31720,Canadian ,Severe Storm(s)
+31742,Murray ,Severe Ice Storm
+31819,Washington ,Severe Storm(s)
+31910,Cleveland ,Fire
+31939,Tulsa ,Fire
+31954,Le Flore ,Severe Ice Storm
+31959,Okmulgee ,Fire
+31960,Marshall ,Severe Ice Storm
+31961,Statewide,Fire
+31976,McIntosh ,Fire
+32087,Jackson ,Fire
+32114,Muskogee ,Severe Storm(s)
+32117,Payne ,Fire
+32141,Le Flore ,Severe Storm(s)
+32153,Harmon ,Severe Ice Storm
+32203,Creek ,Fire
+32289,Texas ,Fire
+32309,Hughes ,Severe Ice Storm
+32349,McClain ,Severe Ice Storm
+32363,Johnston ,Severe Ice Storm
+32444,Oklahoma ,Fire
+32541,Cleveland ,Fire
+32544,Oklahoma ,Severe Ice Storm
+32545,Caddo ,Severe Storm(s)
+32554,Tulsa ,Fire
+32617,Creek ,Severe Ice Storm
+32657,Jefferson ,Fire
+32708,Tulsa ,Fire
+32757,Pushmataha ,Severe Ice Storm
+32832,Blaine ,Fire
+33011,Stephens ,Severe Ice Storm
+33037,Creek ,Fire
+33044,Creek ,Fire
+33067,Payne ,Fire
+33076,Carter ,Fire
+33130,Wagoner ,Severe Ice Storm
+33293,Garvin ,Severe Ice Storm
+33320,Bryan ,Severe Ice Storm
+33458,Pottawatomie ,Severe Ice Storm
+33476,Coal ,Severe Ice Storm
+33485,Latimer ,Severe Ice Storm
+33512,Adair ,Severe Ice Storm
+33522,Washington ,Fire
+33574,Pottawatomie ,Fire
+33582,Comanche ,Fire
+33604,Lincoln ,Severe Ice Storm
+33681,Craig ,Hurricane
+33684,Cleveland ,Hurricane
+33692,Ellis ,Hurricane
+33876,Pittsburg ,Severe Storm(s)
+33883,Bryan ,Hurricane
+33902,Cherokee ,Hurricane
+34001,Beaver ,Hurricane
+34053,Haskell ,Severe Ice Storm
+34064,Muskogee ,Severe Ice Storm
+34191,Woods ,Hurricane
+34192,Woodward ,Hurricane
+34194,Rogers ,Hurricane
+34195,Pittsburg ,Hurricane
+34196,Seminole ,Hurricane
+34198,Stephens ,Hurricane
+34267,Kingfisher ,Hurricane
+34311,Pottawatomie ,Hurricane
+34315,Sequoyah ,Hurricane
+34316,Custer ,Hurricane
+34317,Washington ,Hurricane
+34318,Pushmataha ,Hurricane
+34320,Washita ,Hurricane
+34321,Nowata ,Hurricane
+34322,Roger Mills ,Hurricane
+34323,Harmon ,Hurricane
+34326,Logan ,Hurricane
+34327,Texas ,Hurricane
+34330,Murray ,Hurricane
+34331,Pontotoc ,Hurricane
+34337,Choctaw ,Hurricane
+34341,Greer ,Hurricane
+34346,Cleveland ,Fire
+34360,McCurtain ,Severe Ice Storm
+34367,Carter ,Hurricane
+34414,Grady ,Severe Ice Storm
+34417,Caddo ,Hurricane
+34444,Okfuskee ,Severe Ice Storm
+34486,Osage ,Hurricane
+34549,Sequoyah ,Severe Ice Storm
+34564,Cleveland ,Severe Ice Storm
+34612,Oklahoma ,Hurricane
+34651,Cotton ,Severe Ice Storm
+34659,Okmulgee ,Severe Ice Storm
+34710,Le Flore ,Hurricane
+34756,McClain ,Hurricane
+34778,Jefferson ,Severe Ice Storm
+34819,Tillman ,Hurricane
+34823,Major ,Hurricane
+34839,Mayes ,Hurricane
+34914,Atoka ,Severe Ice Storm
+34939,Ottawa ,Hurricane
+34959,Love ,Severe Ice Storm
+34980,Blaine ,Hurricane
+34994,Muskogee ,Hurricane
+35012,Delaware ,Hurricane
+35020,McIntosh ,Hurricane
+35056,Kay ,Hurricane
+35073,Okmulgee ,Hurricane
+35111,Cotton ,Hurricane
+35177,Latimer ,Hurricane
+35267,McIntosh ,Severe Ice Storm
+35274,Grant ,Hurricane
+35283,Harper ,Hurricane
+35301,McCurtain ,Hurricane
+35326,Washington ,Severe Ice Storm
+35364,Creek ,Hurricane
+35370,Pawnee ,Hurricane
+35371,Garfield ,Hurricane
+35380,Beckham ,Hurricane
+35448,Dewey ,Hurricane
+35492,Marshall ,Hurricane
+35509,Johnston ,Hurricane
+35580,Wagoner ,Hurricane
+35586,Jackson ,Hurricane
+35602,Canadian ,Hurricane
+35637,Seminole ,Severe Ice Storm
+35646,Tulsa ,Hurricane
+35654,Love ,Hurricane
+35715,Lincoln ,Hurricane
+35830,Hughes ,Hurricane
+35837,Grady ,Hurricane
+35840,Okfuskee ,Hurricane
+35849,Cimarron ,Hurricane
+35859,Atoka ,Hurricane
+35868,Jefferson ,Hurricane
+35870,Comanche ,Hurricane
+35888,Kiowa ,Hurricane
+35902,Choctaw ,Severe Ice Storm
+35906,Garvin ,Hurricane
+35932,Adair ,Hurricane
+35944,Noble ,Hurricane
+35947,Haskell ,Hurricane
+35971,Coal ,Hurricane
+36063,Alfalfa ,Hurricane
+36077,Payne ,Hurricane
+38489,Jackson ,Severe Ice Storm
+38490,Johnston ,Severe Ice Storm
+38491,Ellis ,Severe Ice Storm
+38495,Major ,Severe Ice Storm
+38496,Caddo ,Severe Ice Storm
+38497,Cotton ,Severe Ice Storm
+38499,Le Flore ,Severe Ice Storm
+38500,Beckham ,Severe Ice Storm
+38501,McIntosh ,Severe Ice Storm
+38502,Sequoyah ,Severe Ice Storm
+38503,Woods ,Severe Ice Storm
+38506,Haskell ,Severe Ice Storm
+38507,Washita ,Severe Ice Storm
+38509,McCurtain ,Severe Ice Storm
+38510,Coal ,Severe Ice Storm
+38512,Harmon ,Severe Ice Storm
+38515,Carter ,Severe Ice Storm
+38516,Delaware ,Severe Ice Storm
+38518,Cherokee ,Severe Ice Storm
+38519,Cimarron ,Severe Ice Storm
+38520,Garfield ,Severe Ice Storm
+38522,Harper ,Severe Ice Storm
+38524,Alfalfa ,Severe Ice Storm
+38525,Craig ,Severe Ice Storm
+38526,Atoka ,Severe Ice Storm
+38528,Beaver ,Severe Ice Storm
+38529,Pushmataha ,Severe Ice Storm
+38530,Blaine ,Severe Ice Storm
+38531,Rogers ,Severe Ice Storm
+38532,Grady ,Severe Ice Storm
+38533,Hughes ,Severe Ice Storm
+38535,Noble ,Severe Ice Storm
+38538,Comanche ,Severe Ice Storm
+38540,Pottawatomie ,Severe Ice Storm
+38541,Love ,Severe Ice Storm
+38542,Choctaw ,Severe Ice Storm
+38543,Latimer ,Severe Ice Storm
+38545,Lincoln ,Severe Ice Storm
+38547,Greer ,Severe Ice Storm
+38549,Grant ,Severe Ice Storm
+38550,Logan ,Severe Ice Storm
+38551,Pontotoc ,Severe Ice Storm
+38553,Nowata ,Severe Ice Storm
+38554,Texas ,Severe Ice Storm
+38555,Jefferson ,Severe Ice Storm
+38556,Adair ,Severe Ice Storm
+38559,Tulsa ,Severe Ice Storm
+38560,Stephens ,Severe Ice Storm
+38561,Woodward ,Severe Ice Storm
+38562,Cleveland ,Severe Ice Storm
+38563,Washington ,Severe Ice Storm
+38564,McClain ,Severe Ice Storm
+38565,Garvin ,Severe Ice Storm
+38566,Dewey ,Severe Ice Storm
+38567,Wagoner ,Severe Ice Storm
+38569,Tillman ,Severe Ice Storm
+38570,Kiowa ,Severe Ice Storm
+38571,Kingfisher ,Severe Ice Storm
+38572,Kay ,Severe Ice Storm
+38573,Roger Mills ,Severe Ice Storm
+38575,Marshall ,Severe Ice Storm
+38576,Creek ,Severe Ice Storm
+38577,Bryan ,Severe Ice Storm
+38579,Custer ,Severe Ice Storm
+38581,Canadian ,Severe Ice Storm
+38634,Adair ,Severe Ice Storm
+38641,Beaver ,Severe Ice Storm
+38658,Mayes ,Severe Ice Storm
+38660,Ottawa ,Severe Ice Storm
+38664,Payne ,Severe Ice Storm
+38666,Muskogee ,Severe Ice Storm
+38671,Okmulgee ,Severe Ice Storm
+38672,Seminole ,Severe Ice Storm
+38674,Oklahoma ,Severe Ice Storm
+38675,Alfalfa ,Severe Ice Storm
+38676,Murray ,Severe Ice Storm
+38679,Osage ,Severe Ice Storm
+38684,Pawnee ,Severe Ice Storm
+38685,Pittsburg ,Severe Ice Storm
+38686,Okfuskee ,Severe Ice Storm
+38688,Okmulgee ,Severe Ice Storm
+38689,Pottawatomie ,Severe Ice Storm
+38690,Oklahoma ,Severe Ice Storm
+38691,Comanche ,Severe Ice Storm
+38692,Caddo ,Severe Ice Storm
+38693,Pushmataha ,Severe Ice Storm
+38695,Seminole ,Severe Ice Storm
+38697,Ottawa ,Severe Ice Storm
+38699,Pittsburg ,Severe Ice Storm
+38700,McIntosh ,Severe Ice Storm
+38701,Delaware ,Severe Ice Storm
+38702,Kingfisher ,Severe Ice Storm
+38703,Nowata ,Severe Ice Storm
+38704,Harper ,Severe Ice Storm
+38705,Major ,Severe Ice Storm
+38706,Garvin ,Severe Ice Storm
+38708,Texas ,Severe Ice Storm
+38709,Beckham ,Severe Ice Storm
+38710,Kiowa ,Severe Ice Storm
+38711,Jackson ,Severe Ice Storm
+38713,Love ,Severe Ice Storm
+38714,Canadian ,Severe Ice Storm
+38715,Murray ,Severe Ice Storm
+38716,Marshall ,Severe Ice Storm
+38717,Grant ,Severe Ice Storm
+38718,Ellis ,Severe Ice Storm
+38719,Okfuskee ,Severe Ice Storm
+38720,Tillman ,Severe Ice Storm
+38721,Rogers ,Severe Ice Storm
+38722,Grady ,Severe Ice Storm
+38723,Garfield ,Severe Ice Storm
+38724,Noble ,Severe Ice Storm
+38725,Roger Mills ,Severe Ice Storm
+38726,McCurtain ,Severe Ice Storm
+38727,Coal ,Severe Ice Storm
+38728,Tulsa ,Severe Ice Storm
+38729,Choctaw ,Severe Ice Storm
+38730,Cimarron ,Severe Ice Storm
+38731,Sequoyah ,Severe Ice Storm
+38732,Kay ,Severe Ice Storm
+38733,McClain ,Severe Ice Storm
+38734,Custer ,Severe Ice Storm
+38735,Le Flore ,Severe Ice Storm
+38736,Latimer ,Severe Ice Storm
+38738,Harmon ,Severe Ice Storm
+38740,Jefferson ,Severe Ice Storm
+38742,Mayes ,Severe Ice Storm
+38744,Greer ,Severe Ice Storm
+38746,Lincoln ,Severe Ice Storm
+38748,Osage ,Severe Ice Storm
+38750,Hughes ,Severe Ice Storm
+38752,Cherokee ,Severe Ice Storm
+38753,Johnston ,Severe Ice Storm
+38755,Pawnee ,Severe Ice Storm
+38757,Logan ,Severe Ice Storm
+38761,Stephens ,Severe Ice Storm
+38762,Atoka ,Severe Ice Storm
+38763,Blaine ,Severe Ice Storm
+38764,Bryan ,Severe Ice Storm
+38765,Payne ,Severe Ice Storm
+38766,Wagoner ,Severe Ice Storm
+38767,Carter ,Severe Ice Storm
+38768,Craig ,Severe Ice Storm
+38769,Pontotoc ,Severe Ice Storm
+38773,Woodward ,Severe Ice Storm
+38787,Washington ,Severe Ice Storm
+38789,Creek ,Severe Ice Storm
+38791,Woods ,Severe Ice Storm
+38793,Cleveland ,Severe Ice Storm
+38795,Muskogee ,Severe Ice Storm
+38798,Washita ,Severe Ice Storm
+38804,Dewey ,Severe Ice Storm
+38810,Cotton ,Severe Ice Storm
+38815,Haskell ,Severe Ice Storm
+40003,Payne ,Severe Storm(s)
+40004,Hughes ,Severe Storm(s)
+40005,Cimarron ,Severe Storm(s)
+40006,Murray ,Severe Storm(s)
+40007,Osage ,Severe Storm(s)
+40008,Nowata ,Severe Storm(s)
+40009,Adair ,Severe Storm(s)
+40010,Kiowa ,Severe Storm(s)
+40011,Logan ,Severe Storm(s)
+40012,Le Flore ,Severe Storm(s)
+40013,Beaver ,Snow
+40014,McClain ,Severe Storm(s)
+40016,Roger Mills ,Severe Storm(s)
+40017,Jackson ,Severe Storm(s)
+40018,Cotton ,Severe Storm(s)
+40019,Craig ,Severe Storm(s)
+40021,Beaver ,Severe Storm(s)
+40022,Muskogee ,Severe Storm(s)
+40023,Atoka ,Severe Storm(s)
+40024,Jefferson ,Severe Storm(s)
+40025,Greer ,Severe Storm(s)
+40026,Pawnee ,Severe Storm(s)
+40027,Washington ,Severe Storm(s)
+40030,Pushmataha ,Severe Storm(s)
+40031,Cherokee ,Severe Storm(s)
+40032,Marshall ,Severe Storm(s)
+40034,Sequoyah ,Severe Storm(s)
+40035,Kay ,Severe Storm(s)
+40036,Harper ,Severe Storm(s)
+40038,Garfield ,Severe Storm(s)
+40039,Comanche ,Severe Storm(s)
+40040,Alfalfa ,Severe Storm(s)
+40041,McCurtain ,Severe Storm(s)
+40042,McIntosh ,Severe Storm(s)
+40043,Ottawa ,Severe Storm(s)
+40044,Woods ,Snow
+40045,Grant ,Severe Storm(s)
+40046,Beckham ,Severe Storm(s)
+40048,Choctaw ,Severe Storm(s)
+40049,Pottawatomie ,Severe Storm(s)
+40050,Grady ,Severe Storm(s)
+40052,Pontotoc ,Severe Storm(s)
+40053,Rogers ,Severe Storm(s)
+40054,Mayes ,Severe Storm(s)
+40055,Woodward ,Severe Storm(s)
+40057,Kingfisher ,Severe Storm(s)
+40059,Coal ,Severe Storm(s)
+40061,Love ,Severe Storm(s)
+40063,Latimer ,Severe Storm(s)
+40065,Okfuskee ,Severe Storm(s)
+40067,Garvin ,Severe Storm(s)
+40068,Woodward ,Snow
+40069,Major ,Severe Storm(s)
+40070,Ellis ,Snow
+40071,Pittsburg ,Severe Storm(s)
+40073,Tulsa ,Severe Storm(s)
+40076,Tillman ,Severe Storm(s)
+40079,Cleveland ,Severe Storm(s)
+40086,Caddo ,Severe Storm(s)
+40089,Texas ,Severe Storm(s)
+40091,Blaine ,Severe Storm(s)
+40092,Canadian ,Severe Storm(s)
+40094,Johnston ,Severe Storm(s)
+40099,Bryan ,Severe Storm(s)
+40100,Lincoln ,Severe Storm(s)
+40108,Carter ,Severe Storm(s)
+40109,Noble ,Severe Storm(s)
+40112,Washita ,Severe Storm(s)
+40139,Wagoner ,Severe Storm(s)
+40160,Seminole ,Severe Storm(s)
+40162,Ellis ,Severe Storm(s)
+40164,Dewey ,Severe Storm(s)
+40166,Okmulgee ,Severe Storm(s)
+40168,Delaware ,Severe Storm(s)
+40170,Creek ,Severe Storm(s)
+40172,Stephens ,Severe Storm(s)
+40174,Oklahoma ,Severe Storm(s)
+40176,Haskell ,Severe Storm(s)
+40178,Harmon ,Severe Storm(s)
+40180,Custer ,Severe Storm(s)
+40186,Woods ,Severe Storm(s)
+40195,Adair ,Severe Storm(s)
+40207,Coal ,Severe Storm(s)
+40213,Choctaw ,Severe Storm(s)
+40215,Cimarron ,Severe Storm(s)
+40233,Atoka ,Severe Storm(s)
+40245,Blaine ,Severe Storm(s)
+40247,Pushmataha ,Severe Storm(s)
+40248,Muskogee ,Severe Storm(s)
+40252,Okmulgee ,Severe Storm(s)
+40253,Stephens ,Severe Storm(s)
+40254,Sequoyah ,Severe Storm(s)
+40255,Seminole ,Severe Storm(s)
+40256,Mayes ,Severe Storm(s)
+40257,Love ,Severe Storm(s)
+40258,Tillman ,Severe Storm(s)
+40261,Lincoln ,Severe Storm(s)
+40262,Pontotoc ,Severe Storm(s)
+40263,Woodward ,Severe Storm(s)
+40266,Washita ,Severe Storm(s)
+40268,McIntosh ,Severe Storm(s)
+40272,Alfalfa ,Severe Storm(s)
+40273,Pottawatomie ,Severe Storm(s)
+40274,Beaver ,Severe Storm(s)
+40275,Noble ,Severe Storm(s)
+40277,Bryan ,Severe Storm(s)
+40278,Garfield ,Severe Storm(s)
+40279,Caddo ,Severe Storm(s)
+40280,Beckham ,Severe Storm(s)
+40281,Canadian ,Severe Storm(s)
+40282,Delaware ,Severe Storm(s)
+40283,Garvin ,Severe Storm(s)
+40284,Dewey ,Severe Storm(s)
+40285,Cherokee ,Severe Storm(s)
+40286,Ellis ,Severe Storm(s)
+40287,Harmon ,Severe Storm(s)
+40288,Greer ,Severe Storm(s)
+40289,Cleveland ,Severe Storm(s)
+40290,Carter ,Severe Storm(s)
+40291,Haskell ,Severe Storm(s)
+40292,Harper ,Severe Storm(s)
+40293,Oklahoma ,Severe Storm(s)
+40294,Cotton ,Severe Storm(s)
+40295,Latimer ,Severe Storm(s)
+40296,Creek ,Severe Storm(s)
+40298,Grant ,Severe Storm(s)
+40299,Pawnee ,Severe Storm(s)
+40300,Woods ,Severe Storm(s)
+40301,Comanche ,Severe Storm(s)
+40302,Le Flore ,Severe Storm(s)
+40303,Wagoner ,Severe Storm(s)
+40305,Roger Mills ,Severe Storm(s)
+40306,Kingfisher ,Severe Storm(s)
+40307,Murray ,Severe Storm(s)
+40309,Kay ,Severe Storm(s)
+40310,Custer ,Severe Storm(s)
+40311,Texas ,Severe Storm(s)
+40312,Kiowa ,Severe Storm(s)
+40313,Okfuskee ,Severe Storm(s)
+40314,Jackson ,Severe Storm(s)
+40315,Grady ,Severe Storm(s)
+40316,Jefferson ,Severe Storm(s)
+40318,Hughes ,Severe Storm(s)
+40319,Johnston ,Severe Storm(s)
+40320,Rogers ,Severe Storm(s)
+40321,Craig ,Severe Storm(s)
+40379,McCurtain ,Severe Storm(s)
+40384,Logan ,Severe Storm(s)
+40393,Tulsa ,Severe Storm(s)
+40395,Payne ,Severe Storm(s)
+40400,Nowata ,Severe Storm(s)
+40401,Washington ,Severe Storm(s)
+40402,Ottawa ,Severe Storm(s)
+40403,Osage ,Severe Storm(s)
+40404,Major ,Severe Storm(s)
+40405,Pittsburg ,Severe Storm(s)
+40406,Marshall ,Severe Storm(s)
+40414,McClain ,Severe Storm(s)
+43130,Sequoyah ,Flood
+43131,Kay ,Flood
+43135,Muskogee ,Flood
+43140,Wagoner ,Flood
+43164,Noble ,Flood
+43203,Le Flore ,Flood
+43230,Pawnee ,Flood
+43235,Tulsa ,Flood
+43237,Haskell ,Flood
+43242,Osage ,Flood
+43969,Alfalfa ,Severe Storm(s)
+43982,Nowata ,Severe Storm(s)
+44049,Kay ,Severe Storm(s)
+44050,Craig ,Severe Storm(s)
+44057,Grant ,Severe Storm(s)
+44180,Cleveland ,Fire
+44268,Creek ,Fire
+44556,Blaine ,Severe Storm(s)
+44574,Custer ,Severe Storm(s)
+44578,Beckham ,Severe Storm(s)
+44583,Noble ,Severe Storm(s)
+44588,Major ,Severe Storm(s)
+44600,Washita ,Severe Storm(s)
+44602,Kay ,Severe Storm(s)
+44626,Alfalfa ,Severe Storm(s)
+44631,Beaver ,Severe Storm(s)
+44647,Grant ,Severe Storm(s)
+44657,Ellis ,Severe Storm(s)
+44661,Woodward ,Severe Storm(s)
+44676,Atoka ,Tornado
+44677,Kingfisher ,Severe Storm(s)
+44679,Dewey ,Severe Storm(s)
+44681,Garfield ,Severe Storm(s)
+44689,Woods ,Severe Storm(s)
+44691,Roger Mills ,Severe Storm(s)
+44705,Okfuskee ,Tornado
+44709,Okmulgee ,Tornado
+44724,McIntosh ,Tornado
+44725,Lincoln ,Tornado
+44726,Ottawa ,Tornado
+44730,Pittsburg ,Tornado
+44732,Seminole ,Tornado
+44735,Cleveland ,Tornado
+44737,Oklahoma ,Tornado
+44739,Nowata ,Tornado
+44740,Craig ,Tornado
+44743,Pushmataha ,Tornado
+44745,Haskell ,Tornado
+44747,Canadian ,Tornado
+44748,Le Flore ,Tornado
+44752,Hughes ,Tornado
+44756,Coal ,Tornado
+44759,Latimer ,Tornado
+44767,Pottawatomie ,Tornado
+44770,McClain ,Tornado
+45218,McCurtain ,Severe Storm(s)
+45270,Pushmataha ,Severe Storm(s)
+45325,Choctaw ,Severe Storm(s)
+45331,Le Flore ,Severe Storm(s)
+45986,Rogers ,Severe Storm(s)
+45987,Roger Mills ,Severe Storm(s)
+45990,Grant ,Severe Storm(s)
+45996,Custer ,Severe Storm(s)
+45998,Greer ,Severe Storm(s)
+46000,Craig ,Severe Storm(s)
+46002,Haskell ,Severe Storm(s)
+46004,Harmon ,Severe Storm(s)
+46005,Creek ,Severe Storm(s)
+46006,Muskogee ,Severe Storm(s)
+46008,Kay ,Severe Storm(s)
+46009,Dewey ,Severe Storm(s)
+46010,Kingfisher ,Severe Storm(s)
+46011,Jackson ,Severe Storm(s)
+46012,Noble ,Severe Storm(s)
+46013,Major ,Severe Storm(s)
+46016,Lincoln ,Severe Storm(s)
+46020,Caddo ,Severe Storm(s)
+46021,Beckham ,Severe Storm(s)
+46022,Tulsa ,Severe Storm(s)
+46025,Nowata ,Severe Storm(s)
+46027,Atoka ,Severe Storm(s)
+46029,Adair ,Severe Storm(s)
+46030,Carter ,Severe Storm(s)
+46031,McClain ,Severe Storm(s)
+46032,Coal ,Severe Storm(s)
+46033,Mayes ,Severe Storm(s)
+46034,Jefferson ,Severe Storm(s)
+46035,McCurtain ,Severe Storm(s)
+46036,Garvin ,Severe Storm(s)
+46037,McIntosh ,Severe Storm(s)
+46038,Johnston ,Severe Storm(s)
+46039,Marshall ,Severe Storm(s)
+46040,Le Flore ,Severe Storm(s)
+46041,Murray ,Severe Storm(s)
+46042,Love ,Severe Storm(s)
+46043,Okfuskee ,Severe Storm(s)
+46044,Logan ,Severe Storm(s)
+46045,Pontotoc ,Severe Storm(s)
+46046,Ottawa ,Severe Storm(s)
+46047,Okmulgee ,Severe Storm(s)
+46048,Oklahoma ,Severe Storm(s)
+46049,Pottawatomie ,Severe Storm(s)
+46050,Pittsburg ,Severe Storm(s)
+46051,Wagoner ,Severe Storm(s)
+46052,Pushmataha ,Severe Storm(s)
+46054,Seminole ,Severe Storm(s)
+46058,Stephens ,Severe Storm(s)
+46060,Tillman ,Severe Storm(s)
+46065,Latimer ,Severe Storm(s)
+46067,Comanche ,Severe Storm(s)
+46069,Delaware ,Severe Storm(s)
+46071,Grady ,Severe Storm(s)
+46073,Kiowa ,Severe Storm(s)
+46075,Hughes ,Severe Storm(s)
+46077,Bryan ,Severe Storm(s)
+46079,Cleveland ,Severe Storm(s)
+46081,Washita ,Severe Storm(s)
+46082,Canadian ,Severe Storm(s)
+46083,Choctaw ,Severe Storm(s)
+46084,Cherokee ,Severe Storm(s)
+46085,Sequoyah ,Severe Storm(s)
+46086,Cotton ,Severe Storm(s)
+46150,Greer ,Severe Ice Storm
+46356,Pushmataha ,Severe Storm(s)
+46403,Dewey ,Severe Ice Storm
+46424,Pittsburg ,Severe Storm(s)
+46448,Ottawa ,Severe Storm(s)
+46455,Roger Mills ,Severe Storm(s)
+46460,Woods ,Severe Ice Storm
+46508,Roger Mills ,Severe Ice Storm
+46523,Alfalfa ,Severe Ice Storm
+46539,Beckham ,Severe Ice Storm
+46553,Bryan ,Severe Ice Storm
+46559,Oklahoma ,Severe Ice Storm
+46578,Custer ,Severe Ice Storm
+46589,Caddo ,Severe Ice Storm
+46601,Mayes ,Severe Storm(s)
+46614,Blaine ,Severe Ice Storm
+46631,Major ,Severe Ice Storm
+46635,Kiowa ,Severe Ice Storm
+46639,Grant ,Severe Ice Storm
+46654,Kingfisher ,Severe Ice Storm
+46655,Grady ,Severe Ice Storm
+46656,Logan ,Severe Ice Storm
+46662,Washita ,Severe Ice Storm
+46663,Ellis ,Severe Ice Storm
+46672,Haskell ,Severe Storm(s)
+46674,Canadian ,Severe Storm(s)
+46684,Greer ,Severe Storm(s)
+46691,Okfuskee ,Severe Storm(s)
+46704,Coal ,Severe Storm(s)
+46705,Canadian ,Severe Ice Storm
+46707,Kay ,Severe Storm(s)
+46726,Adair ,Severe Storm(s)
+46738,Grady ,Severe Storm(s)
+46746,Okmulgee ,Severe Storm(s)
+46752,Delaware ,Severe Storm(s)
+46766,Cotton ,Severe Storm(s)
+46778,Garfield ,Severe Ice Storm
+46783,Craig ,Severe Storm(s)
+46791,Osage ,Severe Storm(s)
+46793,Dewey ,Severe Storm(s)
+46798,Kiowa ,Severe Storm(s)
+46811,Tillman ,Severe Storm(s)
+46812,Woods ,Severe Storm(s)
+46817,McCurtain ,Severe Storm(s)
+46819,Muskogee ,Severe Storm(s)
+46821,Major ,Severe Storm(s)
+46825,Stephens ,Flood
+46834,Noble ,Severe Storm(s)
+46854,Latimer ,Severe Storm(s)
+46857,Sequoyah ,Severe Storm(s)
+46867,Jackson ,Severe Storm(s)
+46868,Kingfisher ,Severe Storm(s)
+46873,Beckham ,Severe Storm(s)
+46882,Comanche ,Severe Storm(s)
+46883,Washita ,Severe Storm(s)
+46884,Tillman ,Flood
+46891,Hughes ,Severe Storm(s)
+46907,Blaine ,Severe Storm(s)
+46908,Alfalfa ,Severe Storm(s)
+46915,Harmon ,Severe Storm(s)
+46924,Caddo ,Severe Storm(s)
+46968,Cherokee ,Severe Storm(s)
+46983,McIntosh ,Severe Storm(s)
+47042,Caddo ,Flood
+47058,Grant ,Severe Storm(s)
+47077,Comanche ,Flood
+47164,Grady ,Flood
+47177,Custer ,Severe Storm(s)
+47247,Sequoyah ,Severe Storm(s)
+47293,Woods ,Severe Storm(s)
+47322,Texas ,Severe Storm(s)
+47335,Ottawa ,Severe Storm(s)
+47356,Ellis ,Severe Storm(s)
+47357,Kiowa ,Severe Storm(s)
+47367,Adair ,Severe Storm(s)
+47383,Pittsburg ,Severe Storm(s)
+47386,Major ,Severe Storm(s)
+47404,Caddo ,Severe Storm(s)
+47407,Pontotoc ,Tornado
+47414,Roger Mills ,Severe Storm(s)
+47451,Muskogee ,Severe Storm(s)
+47466,Beaver ,Severe Storm(s)
+47523,Delaware ,Severe Storm(s)
+47562,Blaine ,Severe Storm(s)
+47571,Woodward ,Severe Storm(s)
+47572,Garvin ,Flood
+47592,Jackson ,Flood
+47593,Mayes ,Severe Storm(s)
+47596,Dewey ,Severe Storm(s)
+47611,Cotton ,Flood
+47643,Rogers ,Severe Storm(s)
+47674,Haskell ,Severe Storm(s)
+47695,Washita ,Tornado
+47752,Cotton ,Tornado
+47788,Beckham ,Tornado
+47795,Beckham ,Severe Storm(s)
+47801,Pittsburg ,Tornado
+47806,Cherokee ,Severe Storm(s)
+47891,Logan ,Severe Storm(s)
+47919,Okmulgee ,Tornado
+47921,Texas ,Severe Storm(s)
+47993,Roger Mills ,Tornado
+47994,Dewey ,Fire
+48002,Lincoln ,Severe Storm(s)
+48055,Johnston ,Tornado
+48084,Okfuskee ,Tornado
+48165,Pawnee (OTSA,Severe Storm(s)
+48195,Le Flore ,Tornado
+48199,Delaware ,Tornado
+48211,Alfalfa ,Tornado
+48236,Coal ,Tornado
+48299,Murray ,Tornado
+48300,Cherokee ,Tornado
+48333,Cimarron ,Severe Storm(s)
+48338,Muskogee ,Tornado
+48398,Craig ,Severe Storm(s)
+48455,Washita ,Severe Storm(s)
+48493,Harper ,Severe Storm(s)
+48559,Dewey ,Severe Storm(s)
+48664,Beaver ,Severe Storm(s)
+49158,Creek ,Severe Storm(s)
+49175,Ottawa ,Severe Storm(s)
+49226,Osage ,Severe Storm(s)
+49229,Cherokee ,Severe Storm(s)
+49273,Rogers ,Severe Storm(s)
+49277,Haskell ,Severe Storm(s)
+49295,Delaware ,Severe Storm(s)
+49307,Sequoyah ,Severe Storm(s)
+49324,Alfalfa ,Severe Storm(s)
+49335,Roger Mills ,Fire
+49379,Custer ,Fire
+49388,Kay ,Severe Storm(s)
+49393,Mayes ,Severe Storm(s)
+49397,Canadian ,Severe Storm(s)
+49404,Okmulgee ,Severe Storm(s)
+49410,Tulsa ,Severe Storm(s)
+49456,Garfield ,Severe Storm(s)
+49458,Craig ,Severe Storm(s)
+49466,Le Flore ,Severe Storm(s)
+49478,Muskogee ,Severe Storm(s)
+49519,Harmon ,Fire
+49527,Washington ,Severe Storm(s)
+49535,Woodward ,Fire
+49587,Woods ,Severe Storm(s)
+49618,Kingfisher ,Severe Storm(s)
+49637,Payne ,Severe Storm(s)
+49639,Logan ,Severe Storm(s)
+49641,Pottawatomie ,Severe Storm(s)
+49662,Wagoner ,Severe Storm(s)
+49743,Nowata ,Severe Storm(s)
+49760,Noble ,Severe Storm(s)
+49762,Pawnee (OTSA,Severe Storm(s)
+49764,Pawnee ,Severe Storm(s)
+49879,Payne ,Fire
+49887,Oklahoma ,Fire
+49923,Creek ,Fire
+49934,Creek ,Fire
+49941,Payne ,Fire
+49958,Logan ,Fire
+50022,Nowata ,Fire
+50036,Creek ,Fire
+50039,Pawnee ,Fire
+50041,Washington ,Fire
+50060,Woodward ,Fire
+50081,Harper ,Fire
+50082,Woods ,Fire
+50087,Ellis ,Fire
+50097,Wagoner ,Fire
+50145,Cleveland ,Fire
+50161,Dewey ,Fire
+50182,Woodward ,Fire
+50183,Pottawatomie ,Fire
+50208,Woodward ,Fire
+50223,Beaver ,Fire
+50353,Statewide,Severe Storm(s)
+50354,Major ,Severe Storm(s)
+50355,Bryan ,Severe Storm(s)
+50356,Nowata ,Severe Storm(s)
+50357,Okmulgee ,Severe Storm(s)
+50358,Coal ,Severe Storm(s)
+50359,Love ,Severe Storm(s)
+50360,Ottawa ,Severe Storm(s)
+50361,Lincoln ,Severe Storm(s)
+50362,Osage ,Severe Storm(s)
+50363,Kay ,Severe Storm(s)
+50364,Stephens ,Severe Storm(s)
+50365,Pittsburg ,Severe Storm(s)
+50366,Noble ,Severe Storm(s)
+50367,Craig ,Severe Storm(s)
+50368,Pushmataha ,Severe Storm(s)
+50369,Atoka ,Severe Storm(s)
+50370,Alfalfa ,Severe Storm(s)
+50371,Tillman ,Severe Storm(s)
+50372,Ellis ,Severe Storm(s)
+50373,Greer ,Severe Storm(s)
+50374,Blaine ,Severe Storm(s)
+50375,Pushmataha ,Severe Storm(s)
+50376,Grant ,Severe Storm(s)
+50377,Beckham ,Severe Storm(s)
+50378,Adair ,Severe Storm(s)
+50379,Dewey ,Severe Storm(s)
+50380,Beaver ,Severe Storm(s)
+50381,Custer ,Severe Storm(s)
+50382,Lincoln ,Severe Storm(s)
+50383,Roger Mills ,Severe Storm(s)
+50384,Okfuskee ,Severe Storm(s)
+50385,Grady ,Severe Storm(s)
+50386,Harper ,Severe Storm(s)
+50387,Jackson ,Severe Storm(s)
+50388,Washita ,Severe Storm(s)
+50389,Pittsburg ,Severe Storm(s)
+50480,Woodward ,Severe Storm(s)
+50481,Caddo ,Severe Storm(s)
+50482,Kiowa ,Severe Storm(s)
+50499,Statewide,Severe Storm(s)
+50500,Creek (OTSA,Severe Storm(s)
+50501,Tillman ,Severe Storm(s)
+50508,Okfuskee ,Severe Storm(s)
+51080,Woodward ,Fire
+51081,Ellis ,Fire
+51270,Beaver ,Fire
+54838,Cherokee (TJSA,Biological
+54839,Cherokee (OTSA,Biological
+54840,Caddo-Wichita-Delaware (OTSA,Biological
+54841,Absentee Shawnee-Citizens Band of Potawatomi (TJSA,Biological
+54842,Cheyenne-Arapaho (OTSA,Biological
+54843,Chickasaw (OTSA,Biological
+54844,Choctaw (OTSA,Biological
+54845,Citizen Potawatomi Nation-Absentee Shawnee Tribe (OT,Biological
+54846,Choctaw,Biological
+54847,Creek-Seminole Joint Area (OTSA,Biological
+54848,Creek (OTSA,Biological
+54849,Eastern Shawnee (OTSA,Biological
+54850,Iowa (OTSA,Biological
+54851,Eastern Shawnee-Wyandotte (OTSA,Biological
+54852,Kaw (OTSA,Biological
+54853,Iowa-Sac and Fox Joint Area (OTSA,Biological
+54854,Kaw-Ponca (Joint Area,Biological
+54855,Kickapoo (OTSA,Biological
+54856,Kiowa-Comanche-Apache-Fort Sill Apache (OTSA,Biological
+54857,Miami (OTSA,Biological
+54858,Kiowa-Comanche-Apache-Fort Sill Apache-Caddo-Wichita,Biological
+54859,Modoc (OTSA,Biological
+54860,Miami-Peoria (Joint Area,Biological
+54861,Osage Indian Reservation,Biological
+54862,Otoe-Missouria (OTSA,Biological
+54863,Ottowa (OTSA,Biological
+54864,Pawnee (OTSA,Biological
+54865,Ponca (OTSA,Biological
+54866,Quapaw (OTSA,Biological
+54867,Peoria (OTSA,Biological
+54868,Sac and Fox (OTSA,Biological
+54869,Seminole (OTSA,Biological
+54870,Wyandotte (OTSA,Biological
+54871,Seneca-Cayuga (OTSA,Biological
+54872,Tonkawa (OTSA,Biological
+54873,Adair ,Biological
+54874,Alfalfa ,Biological
+54875,Beaver ,Biological
+54876,Atoka ,Biological
+54877,Beckham ,Biological
+54878,Blaine ,Biological
+54879,Carter ,Biological
+54880,Bryan ,Biological
+54881,Canadian ,Biological
+54882,Caddo ,Biological
+54883,Cherokee ,Biological
+54884,Choctaw ,Biological
+54885,Cleveland ,Biological
+54886,Cimarron ,Biological
+54887,Coal ,Biological
+54888,Comanche ,Biological
+54889,Craig ,Biological
+54890,Cotton ,Biological
+54891,Creek ,Biological
+54892,Custer ,Biological
+54893,Delaware ,Biological
+54894,Garfield ,Biological
+54895,Dewey ,Biological
+54896,Ellis ,Biological
+54897,Garvin ,Biological
+54898,Grady ,Biological
+54899,Grant ,Biological
+54900,Greer ,Biological
+54901,Harmon ,Biological
+54902,Harper ,Biological
+54903,Hughes ,Biological
+54904,Haskell ,Biological
+54905,Jackson ,Biological
+54906,Jefferson ,Biological
+54907,Johnston ,Biological
+54908,Kiowa ,Biological
+54909,Kay ,Biological
+54910,Kingfisher ,Biological
+54911,Le Flore ,Biological
+54912,Latimer ,Biological
+54913,Lincoln ,Biological
+54914,Logan ,Biological
+54915,McCurtain ,Biological
+54916,Love ,Biological
+54917,McClain ,Biological
+54918,Major ,Biological
+54919,McIntosh ,Biological
+54920,Murray ,Biological
+54921,Mayes ,Biological
+54922,Marshall ,Biological
+54923,Muskogee ,Biological
+54924,Nowata ,Biological
+54925,Noble ,Biological
+54926,Okfuskee ,Biological
+54927,Oklahoma ,Biological
+54928,Osage ,Biological
+54929,Okmulgee ,Biological
+54930,Ottawa ,Biological
+54931,Payne ,Biological
+54932,Pawnee ,Biological
+54933,Pontotoc ,Biological
+54934,Pittsburg ,Biological
+54935,Pottawatomie ,Biological
+54936,Pushmataha ,Biological
+54937,Roger Mills ,Biological
+54938,Seminole ,Biological
+54939,Rogers ,Biological
+54940,Sequoyah ,Biological
+54941,Stephens ,Biological
+54942,Texas ,Biological
+54943,Tulsa ,Biological
+54944,Tillman ,Biological
+54945,Wagoner ,Biological
+54946,Washington ,Biological
+54947,Washita ,Biological
+54948,Woodward ,Biological
+54949,Woods ,Biological
+55058,Choctaw,Biological
+55059,Quapaw (OTSA,Biological
+56364,Citizen Potawatomi Nation-Absentee Shawnee Tribe (OT,Biological
+56366,Ponca (OTSA,Biological
+56912,Cherokee (OTSA,Biological
+57371,Creek (OTSA,Biological
+58432,Absentee Shawnee-Citizens Band of Potawatomi (TJSA,Biological
+58433,Caddo-Wichita-Delaware (OTSA,Biological
+58434,Cherokee (OTSA,Biological
+58435,Cherokee (TJSA,Biological
+58436,Cheyenne-Arapaho (OTSA,Biological
+58437,Chickasaw (OTSA,Biological
+58438,Choctaw (OTSA,Biological
+58439,Choctaw,Biological
+58440,Citizen Potawatomi Nation-Absentee Shawnee Tribe (OT,Biological
+58441,Creek (OTSA,Biological
+58442,Creek-Seminole Joint Area (OTSA,Biological
+58443,Eastern Shawnee (OTSA,Biological
+58444,Eastern Shawnee-Wyandotte (OTSA,Biological
+58445,Iowa (OTSA,Biological
+58446,Iowa-Sac and Fox Joint Area (OTSA,Biological
+58447,Kaw (OTSA,Biological
+58448,Kaw-Ponca (Joint Area,Biological
+58449,Kickapoo (OTSA,Biological
+58450,Kiowa-Comanche-Apache-Fort Sill Apache (OTSA,Biological
+58451,Kiowa-Comanche-Apache-Fort Sill Apache-Caddo-Wichita,Biological
+58452,Miami (OTSA,Biological
+58453,Miami-Peoria (Joint Area,Biological
+58454,Modoc (OTSA,Biological
+58455,Osage Indian Reservation,Biological
+58456,Otoe-Missouria (OTSA,Biological
+58457,Ottowa (OTSA,Biological
+58458,Pawnee (OTSA,Biological
+58459,Peoria (OTSA,Biological
+58460,Ponca (OTSA,Biological
+58461,Quapaw (OTSA,Biological
+58462,Sac and Fox (OTSA,Biological
+58463,Seminole (OTSA,Biological
+58464,Seneca-Cayuga (OTSA,Biological
+58465,Tonkawa (OTSA,Biological
+58466,Wyandotte (OTSA,Biological
+58467,Adair ,Biological
+58468,Alfalfa ,Biological
+58469,Atoka ,Biological
+58470,Beaver ,Biological
+58471,Beckham ,Biological
+58472,Blaine ,Biological
+58473,Bryan ,Biological
+58474,Caddo ,Biological
+58475,Canadian ,Biological
+58476,Carter ,Biological
+58477,Cherokee ,Biological
+58478,Choctaw ,Biological
+58479,Cimarron ,Biological
+58480,Cleveland ,Biological
+58481,Coal ,Biological
+58482,Comanche ,Biological
+58483,Cotton ,Biological
+58484,Craig ,Biological
+58485,Creek ,Biological
+58486,Custer ,Biological
+58487,Delaware ,Biological
+58488,Dewey ,Biological
+58489,Ellis ,Biological
+58490,Garfield ,Biological
+58491,Garvin ,Biological
+58492,Grady ,Biological
+58493,Grant ,Biological
+58494,Greer ,Biological
+58495,Harmon ,Biological
+58496,Harper ,Biological
+58497,Haskell ,Biological
+58498,Hughes ,Biological
+58499,Jackson ,Biological
+58500,Jefferson ,Biological
+58501,Johnston ,Biological
+58502,Kay ,Biological
+58503,Kingfisher ,Biological
+58504,Kiowa ,Biological
+58505,Latimer ,Biological
+58506,Le Flore ,Biological
+58507,Lincoln ,Biological
+58508,Logan ,Biological
+58509,Love ,Biological
+58510,McClain ,Biological
+58511,McCurtain ,Biological
+58512,McIntosh ,Biological
+58513,Major ,Biological
+58514,Marshall ,Biological
+58515,Mayes ,Biological
+58516,Murray ,Biological
+58517,Muskogee ,Biological
+58518,Noble ,Biological
+58519,Nowata ,Biological
+58520,Okfuskee ,Biological
+58521,Oklahoma ,Biological
+58522,Okmulgee ,Biological
+58523,Osage ,Biological
+58524,Ottawa ,Biological
+58525,Pawnee ,Biological
+58526,Payne ,Biological
+58527,Pittsburg ,Biological
+58528,Pontotoc ,Biological
+58529,Pottawatomie ,Biological
+58530,Pushmataha ,Biological
+58531,Roger Mills ,Biological
+58532,Rogers ,Biological
+58533,Seminole ,Biological
+58534,Sequoyah ,Biological
+58535,Stephens ,Biological
+58536,Texas ,Biological
+58537,Tillman ,Biological
+58538,Tulsa ,Biological
+58539,Wagoner ,Biological
+58540,Washington ,Biological
+58541,Washita ,Biological
+58542,Woods ,Biological
+58543,Woodward ,Biological
+58805,Absentee Shawnee-Citizens Band of Potawatomi (TJSA,Biological
+58904,Peoria (OTSA,Biological
+58930,Caddo-Wichita-Delaware (OTSA,Biological
+58933,Osage Indian Reservation,Biological
