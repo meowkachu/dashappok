@@ -295,5 +295,5 @@ predictors = ['age', 'wkhp', 'onlyEnglish', 'degree', 'race', 'citizen', 'gender
 @app.callback(Output('output', 'children'),
     [Input(x, 'value') for x in predictors])
 def show_prediction(age, wkhp, onlyEnglish, degree, race, citizen, gender, stem, ind, wkw, cow):
-    pred = get_prediction(age, wkhp, onlyEnglish, degree, race, citizen, gender, stem, ind, wkw, cow) + 15000
+    pred = get_prediction(age, wkhp, onlyEnglish, degree, race, citizen, gender, stem, ind, wkw, cow) + 20000
     return str("Predicted Income: {:,}".format(pred))
